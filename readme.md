@@ -1,6 +1,6 @@
 # IDPH COVID-19 Statistics
 
-## Data  
+## Data
 
 Data displayed on the [IDPH website](http://www.dph.illinois.gov/covid19/covid19-statistics) is collected and aggregated here.  Data since 2020-11-02 is collected from underlying JSON files and includes demographic data.  Older data was collected by scraping the displayed website using [this code](https://github.com/FarhadGSRX/IL-Covid-Data-Repeater/).
 
