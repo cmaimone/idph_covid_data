@@ -7,8 +7,8 @@ Data displayed on the [IDPH website](http://www.dph.illinois.gov/covid19/covid19
 Find an issue or problem?  Please add an issue on this repo or [let me know](mailto:christina.maimone@northwestern.edu).
 
 If you've been using data from the [previous repository](https://github.com/FarhadGSRX/IL-Covid-Data-Repeater/), the main files you'll likely be interested in are:
-* [County Data](https://media.githubusercontent.com/media/cmaimone/idph_covid_data/master/current_data/county_demo.csv)
-* [Zip Code Data](https://media.githubusercontent.com/media/cmaimone/idph_covid_data/master/current_data/zip_demo.zip) - note: compressed file
+* [County Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/county_demo.csv)
+* [Zip Code Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/zip_demo.zip?raw=true) - note: compressed file
 * State Level Data: "Illinois" is an entry in the county data file.
 
 COVID Data Availability:
