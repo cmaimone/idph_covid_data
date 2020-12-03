@@ -8,7 +8,7 @@ Find an issue or problem?  Please add an issue on this repo or [let me know](mai
 
 If you've been using data from the [previous repository](https://github.com/FarhadGSRX/IL-Covid-Data-Repeater/), the main files you'll likely be interested in are:
 * [County Data](https://media.githubusercontent.com/media/cmaimone/idph_covid_data/master/current_data/county_demo.csv)
-* [Zip Code Data](https://media.githubusercontent.com/media/cmaimone/idph_covid_data/master/current_data/zip_demo.csv)
+* [Zip Code Data](https://media.githubusercontent.com/media/cmaimone/idph_covid_data/master/current_data/zip_demo.zip) - note: compressed file
 * State Level Data: "Illinois" is an entry in the county data file.
 
 COVID Data Availability:
@@ -24,7 +24,7 @@ COVID Data Availability:
   * For entire state, by age (cases) and race/ethnicity (cases, tests) (separately), daily back to early 2020 (but not updated daily) - [`current_data/race_eth_historical.csv`](current_data/race_eth_historical.csv)  (note: hispanic/not hispanic categories overlap with the other categories; days with 0s for a category aren't included) and [`current_data/age_historical.csv`](current_data/age_historical.csv)
 * By Zip Code
   * Cumulative cases and tests (not deaths) by date daily back to 3/17/20: [`current_data/zip.csv`](current_data/zip.csv)
-  * Age (groups), race, and gender demographics (all separately, not intersecting) - cumulative tests and cases (not deaths) - by date daily back to 4/18/20: [`current_data/zip_demo.csv`](current_data/zip_demo.csv) **NOTE**: test data for 2020-10-11 is missing; the values are 0 for that day
+  * Age (groups), race, and gender demographics (all separately, not intersecting) - cumulative tests and cases (not deaths) - by date daily back to 4/18/20: [`current_data/zip_demo.zip`](current_data/zip_demo.zip) **NOTE**: compressed file
 * Hospitalization Data
   * State statistics, back to 11/2/2020 - [`current_data/hospitalization_state.csv`](current_data/hospitalization_state.csv)
   * Regional statistics, back to 11/2/2020 - [`current_data/hospitalization_regional.csv`](current_data/hospitalization_regional.csv)
@@ -52,7 +52,7 @@ The IDPH reports historical time series for the following files.  The data files
 The IDPH does NOT report historical time series for the following files.  The data files here are aggregated by collecting this data daily from the IDPH and keeping a record of the maximum value reported each day.  Due to data corrections, the cumulative values for a day could be slightly lower than those for a previous day.
 
 * [`current_data/county_demo.csv`](current_data/county_demo.csv) - 11/2/20 onward
-* [`current_data/zip_demo.csv`](current_data/zip_demo.csv) - 4/18/20 onward  **NOTE**: test data for 2020-10-11 is missing; the values are 0 for that day (working on fixing)
+* [`current_data/zip_demo.zip`](current_data/zip_demo.zip) - 4/18/20 onward, note: compressed file
 * [`current_data/state_demo.csv`](current_data/state_demo.csv) - 11/1/20 onward
 * [`current_data/zip.csv`](current_data/zip.csv) - 3/17/20 onward
 * [`current_data/hospitalization_state.csv`](current_data/hospitalization_state.csv) - 11/2/20
