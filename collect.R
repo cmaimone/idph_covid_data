@@ -217,7 +217,8 @@ if (tools::md5sum(most_recent_download("zips")) != tools::md5sum("backups/zips_h
   
   # Zip Code Demographics ----
   
-  zip_demo <- read_csv("current_data/zip_demo.csv",
+  # will read .zip file automatically
+  zip_demo <- read_csv("current_data/zip_demo.zip",
                        col_types="cDccii") 
   
   for (zipcode in unique(zip_hist_data$zip)) {
@@ -260,6 +261,9 @@ if (tools::md5sum(most_recent_download("zips")) != tools::md5sum("backups/zips_h
               tested=max(tested)) %>%
     arrange(desc(date), zip) %>% 
     write_csv("current_data/zip_demo.csv")
+  
+  # zip up this file to save space
+  zip("current_data/zip_demo.zip", "current_data/zip_demo.csv")
   
   # condense backup files (keep individual files locally, push zip to git)
   zip(glue("backups/zip_demo/{d1}.zip", d1=zfiledate), 
