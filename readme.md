@@ -15,7 +15,7 @@ No Demographics:
 
 Demographics:
 * [County Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/county_demo.csv?raw=true)
-* [Zip Code Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/zip_demo.zip?raw=true) - note: compressed file
+* [Zip Code Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/zip_demo.zip?raw=true) - note: compressed file; missing 12/3/20 and 12/4/20
 * State Level Data: "Illinois" is an entry in the county data file.
 
 COVID Data Availability:
@@ -59,15 +59,17 @@ The IDPH reports historical time series for the following files.  The data files
 The IDPH does NOT report historical time series for the following files.  The data files here are aggregated by collecting this data daily from the IDPH and keeping a record of the maximum value reported each day.  Due to data corrections, the cumulative values for a day could be slightly lower than those for a previous day.
 
 * [`current_data/county_demo.csv`](current_data/county_demo.csv) - 11/2/20 onward
-* [`current_data/zip_demo.zip`](current_data/zip_demo.zip) - 4/18/20 onward, note: compressed file
+* [`current_data/zip_demo.zip`](current_data/zip_demo.zip) - 4/18/20 onward, note: compressed file; missing 12/3, 12/4
 * [`current_data/state_demo.csv`](current_data/state_demo.csv) - 11/1/20 onward
 * [`current_data/zip.csv`](current_data/zip.csv) - 3/17/20 onward
 * [`current_data/hospitalization_state.csv`](current_data/hospitalization_state.csv) - 11/2/20
 * [`current_data/hospitalization_regional.csv`](current_data/hospitalization_regional.csv) - 11/2/20
 
 
-### Random Data Notes
+### Data Notes
 
+* 2020/12/5: missing December 3-4 from the zip_demo.zip file
+* 2020/12/2: switched files out of lfs and zipped zip_demo file
 * 2020/11/24: county demographics files changed format for age data -- extra race and deaths items included for age groups, but without data in them; this necessitated a change in the script; monitoring for future changes
 * "Cases" has been labeled "Positive Cases" and "Confirmed Cases" in various iterations of the data.  The data series appear to be consistent, and these are reported in the same columns in data files here.
 
