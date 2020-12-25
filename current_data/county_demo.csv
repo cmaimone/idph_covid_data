@@ -1,4 +1,24 @@
 county,date,measure,group,cases,tested
+Adams,2020-12-25,age,<20,7,8
+Adams,2020-12-25,age,20-29,9,2
+Adams,2020-12-25,age,30-39,6,4
+Adams,2020-12-25,age,40-49,4,1
+Adams,2020-12-25,age,50-59,8,5
+Adams,2020-12-25,age,60-69,5,9
+Adams,2020-12-25,age,70-79,3,7
+Adams,2020-12-25,age,80+,2,3
+Adams,2020-12-25,age,Unknown,1,6
+Adams,2020-12-25,gender,Female,3047,46394
+Adams,2020-12-25,gender,Male,2637,31858
+Adams,2020-12-25,gender,Unknown/Left Blank,415,7552
+Adams,2020-12-25,race,AI/AN**,0,27
+Adams,2020-12-25,race,Asian,0,128
+Adams,2020-12-25,race,Black,95,755
+Adams,2020-12-25,race,Hispanic,9,190
+Adams,2020-12-25,race,Left Blank,4573,61416
+Adams,2020-12-25,race,NH/PI*,0,48
+Adams,2020-12-25,race,Other,0,119
+Adams,2020-12-25,race,White,1407,23121
 Adams,2020-12-24,age,<20,7,8
 Adams,2020-12-24,age,20-29,9,2
 Adams,2020-12-24,age,30-39,6,4
@@ -1059,6 +1079,24 @@ Adams,2020-11-02,race,Left Blank,1437,26202
 Adams,2020-11-02,race,NH/PI*,0,33
 Adams,2020-11-02,race,Other,0,79
 Adams,2020-11-02,race,White,777,14336
+Alexander,2020-12-25,age,<20,1,3
+Alexander,2020-12-25,age,20-29,2,5
+Alexander,2020-12-25,age,30-39,5,4
+Alexander,2020-12-25,age,40-49,4,6
+Alexander,2020-12-25,age,50-59,7,8
+Alexander,2020-12-25,age,60-69,6,7
+Alexander,2020-12-25,age,70-79,3,2
+Alexander,2020-12-25,age,80+,8,1
+Alexander,2020-12-25,gender,Female,200,2310
+Alexander,2020-12-25,gender,Male,120,1252
+Alexander,2020-12-25,gender,Unknown/Left Blank,7,151
+Alexander,2020-12-25,race,Asian,0,0
+Alexander,2020-12-25,race,Black,74,1039
+Alexander,2020-12-25,race,Hispanic,0,14
+Alexander,2020-12-25,race,Left Blank,115,1383
+Alexander,2020-12-25,race,NH/PI*,0,0
+Alexander,2020-12-25,race,Other,0,18
+Alexander,2020-12-25,race,White,134,1255
 Alexander,2020-12-24,age,<20,1,3
 Alexander,2020-12-24,age,20-29,2,5
 Alexander,2020-12-24,age,30-39,5,4
@@ -2008,6 +2046,26 @@ Alexander,2020-11-02,race,Hispanic,0,6
 Alexander,2020-11-02,race,Left Blank,51,975
 Alexander,2020-11-02,race,Other,0,12
 Alexander,2020-11-02,race,White,60,762
+Bond,2020-12-25,age,<20,3,4
+Bond,2020-12-25,age,20-29,7,7
+Bond,2020-12-25,age,30-39,6,9
+Bond,2020-12-25,age,40-49,4,8
+Bond,2020-12-25,age,50-59,5,6
+Bond,2020-12-25,age,60-69,2,5
+Bond,2020-12-25,age,70-79,9,2
+Bond,2020-12-25,age,80+,8,3
+Bond,2020-12-25,age,Unknown,1,1
+Bond,2020-12-25,gender,Female,673,8111
+Bond,2020-12-25,gender,Male,775,6883
+Bond,2020-12-25,gender,Unknown/Left Blank,36,533
+Bond,2020-12-25,race,AI/AN**,0,0
+Bond,2020-12-25,race,Asian,0,23
+Bond,2020-12-25,race,Black,17,112
+Bond,2020-12-25,race,Hispanic,0,53
+Bond,2020-12-25,race,Left Blank,848,9807
+Bond,2020-12-25,race,NH/PI*,0,0
+Bond,2020-12-25,race,Other,21,186
+Bond,2020-12-25,race,White,585,5340
 Bond,2020-12-24,age,<20,3,4
 Bond,2020-12-24,age,20-29,7,7
 Bond,2020-12-24,age,30-39,6,9
@@ -3044,6 +3102,26 @@ Bond,2020-11-02,race,Hispanic,0,30
 Bond,2020-11-02,race,Left Blank,310,4876
 Bond,2020-11-02,race,Other,14,136
 Bond,2020-11-02,race,White,209,3051
+Boone,2020-12-25,age,<20,7,8
+Boone,2020-12-25,age,20-29,9,9
+Boone,2020-12-25,age,30-39,5,5
+Boone,2020-12-25,age,40-49,8,7
+Boone,2020-12-25,age,50-59,6,6
+Boone,2020-12-25,age,60-69,4,4
+Boone,2020-12-25,age,70-79,3,3
+Boone,2020-12-25,age,80+,2,2
+Boone,2020-12-25,age,Unknown,1,1
+Boone,2020-12-25,gender,Female,2579,23222
+Boone,2020-12-25,gender,Male,2303,15595
+Boone,2020-12-25,gender,Unknown/Left Blank,9,699
+Boone,2020-12-25,race,AI/AN**,6,23
+Boone,2020-12-25,race,Asian,31,254
+Boone,2020-12-25,race,Black,71,534
+Boone,2020-12-25,race,Hispanic,1767,3985
+Boone,2020-12-25,race,Left Blank,611,20297
+Boone,2020-12-25,race,NH/PI*,0,6
+Boone,2020-12-25,race,Other,66,431
+Boone,2020-12-25,race,White,2332,13986
 Boone,2020-12-24,age,<20,7,8
 Boone,2020-12-24,age,20-29,9,9
 Boone,2020-12-24,age,30-39,5,5
@@ -4104,6 +4182,24 @@ Boone,2020-11-02,race,Left Blank,295,11805
 Boone,2020-11-02,race,NH/PI*,0,6
 Boone,2020-11-02,race,Other,38,315
 Boone,2020-11-02,race,White,938,8409
+Brown,2020-12-25,age,<20,3,2
+Brown,2020-12-25,age,20-29,5,7
+Brown,2020-12-25,age,30-39,8,6
+Brown,2020-12-25,age,40-49,7,8
+Brown,2020-12-25,age,50-59,4,5
+Brown,2020-12-25,age,60-69,6,4
+Brown,2020-12-25,age,70-79,1,1
+Brown,2020-12-25,age,80+,2,3
+Brown,2020-12-25,gender,Female,182,2161
+Brown,2020-12-25,gender,Male,221,1636
+Brown,2020-12-25,gender,Unknown/Left Blank,28,496
+Brown,2020-12-25,race,AI/AN**,0,0
+Brown,2020-12-25,race,Asian,0,0
+Brown,2020-12-25,race,Black,61,293
+Brown,2020-12-25,race,Hispanic,11,61
+Brown,2020-12-25,race,Left Blank,113,1497
+Brown,2020-12-25,race,Other,0,19
+Brown,2020-12-25,race,White,243,2420
 Brown,2020-12-24,age,<20,3,2
 Brown,2020-12-24,age,20-29,5,7
 Brown,2020-12-24,age,30-39,8,6
@@ -4998,6 +5094,26 @@ Brown,2020-11-02,race,Hispanic,7,44
 Brown,2020-11-02,race,Left Blank,35,852
 Brown,2020-11-02,race,Other,0,14
 Brown,2020-11-02,race,White,68,1261
+Bureau,2020-12-25,age,<20,4,4
+Bureau,2020-12-25,age,20-29,6,6
+Bureau,2020-12-25,age,30-39,7,8
+Bureau,2020-12-25,age,40-49,8,5
+Bureau,2020-12-25,age,50-59,9,9
+Bureau,2020-12-25,age,60-69,5,7
+Bureau,2020-12-25,age,70-79,3,2
+Bureau,2020-12-25,age,80+,2,3
+Bureau,2020-12-25,age,Unknown,1,1
+Bureau,2020-12-25,gender,Female,1462,16322
+Bureau,2020-12-25,gender,Male,1199,8351
+Bureau,2020-12-25,gender,Unknown/Left Blank,45,1190
+Bureau,2020-12-25,race,AI/AN**,0,0
+Bureau,2020-12-25,race,Asian,0,79
+Bureau,2020-12-25,race,Black,7,117
+Bureau,2020-12-25,race,Hispanic,207,686
+Bureau,2020-12-25,race,Left Blank,1204,15092
+Bureau,2020-12-25,race,NH/PI*,0,47
+Bureau,2020-12-25,race,Other,54,239
+Bureau,2020-12-25,race,White,1225,9601
 Bureau,2020-12-24,age,<20,5,4
 Bureau,2020-12-24,age,20-29,6,6
 Bureau,2020-12-24,age,30-39,7,8
@@ -6051,6 +6167,24 @@ Bureau,2020-11-02,race,Left Blank,403,8616
 Bureau,2020-11-02,race,NH/PI*,0,41
 Bureau,2020-11-02,race,Other,11,129
 Bureau,2020-11-02,race,White,463,4618
+Calhoun,2020-12-25,age,<20,8,5
+Calhoun,2020-12-25,age,20-29,5,6
+Calhoun,2020-12-25,age,30-39,6,7
+Calhoun,2020-12-25,age,40-49,4,4
+Calhoun,2020-12-25,age,50-59,3,8
+Calhoun,2020-12-25,age,60-69,7,3
+Calhoun,2020-12-25,age,70-79,2,2
+Calhoun,2020-12-25,age,80+,9,9
+Calhoun,2020-12-25,age,Unknown,1,1
+Calhoun,2020-12-25,gender,Female,192,2381
+Calhoun,2020-12-25,gender,Male,161,1228
+Calhoun,2020-12-25,gender,Unknown/Left Blank,0,34
+Calhoun,2020-12-25,race,AI/AN**,0,0
+Calhoun,2020-12-25,race,Black,0,16
+Calhoun,2020-12-25,race,Hispanic,0,0
+Calhoun,2020-12-25,race,Left Blank,74,896
+Calhoun,2020-12-25,race,Other,0,26
+Calhoun,2020-12-25,race,White,273,2703
 Calhoun,2020-12-24,age,<20,8,5
 Calhoun,2020-12-24,age,20-29,5,6
 Calhoun,2020-12-24,age,30-39,6,7
@@ -7005,6 +7139,26 @@ Calhoun,2020-11-02,race,Hispanic,0,0
 Calhoun,2020-11-02,race,Left Blank,40,611
 Calhoun,2020-11-02,race,Other,0,23
 Calhoun,2020-11-02,race,White,39,1144
+Carroll,2020-12-25,age,<20,5,2
+Carroll,2020-12-25,age,20-29,4,4
+Carroll,2020-12-25,age,30-39,8,8
+Carroll,2020-12-25,age,40-49,7,7
+Carroll,2020-12-25,age,50-59,6,6
+Carroll,2020-12-25,age,60-69,3,5
+Carroll,2020-12-25,age,70-79,2,9
+Carroll,2020-12-25,age,80+,9,3
+Carroll,2020-12-25,age,Unknown,1,1
+Carroll,2020-12-25,gender,Female,582,6638
+Carroll,2020-12-25,gender,Male,696,6350
+Carroll,2020-12-25,gender,Unknown/Left Blank,6,127
+Carroll,2020-12-25,race,AI/AN**,7,6
+Carroll,2020-12-25,race,Asian,0,49
+Carroll,2020-12-25,race,Black,79,85
+Carroll,2020-12-25,race,Hispanic,25,38
+Carroll,2020-12-25,race,Left Blank,511,8796
+Carroll,2020-12-25,race,NH/PI*,0,0
+Carroll,2020-12-25,race,Other,11,92
+Carroll,2020-12-25,race,White,645,4047
 Carroll,2020-12-24,age,<20,4,2
 Carroll,2020-12-24,age,20-29,4,5
 Carroll,2020-12-24,age,30-39,7,8
@@ -8065,6 +8219,26 @@ Carroll,2020-11-02,race,Left Blank,211,5599
 Carroll,2020-11-02,race,NH/PI*,0,0
 Carroll,2020-11-02,race,Other,0,45
 Carroll,2020-11-02,race,White,260,1926
+Cass,2020-12-25,age,<20,7,7
+Cass,2020-12-25,age,20-29,6,6
+Cass,2020-12-25,age,30-39,5,5
+Cass,2020-12-25,age,40-49,4,3
+Cass,2020-12-25,age,50-59,3,4
+Cass,2020-12-25,age,60-69,2,2
+Cass,2020-12-25,age,70-79,8,8
+Cass,2020-12-25,age,80+,9,9
+Cass,2020-12-25,age,Unknown,1,1
+Cass,2020-12-25,gender,Female,793,7019
+Cass,2020-12-25,gender,Male,641,4355
+Cass,2020-12-25,gender,Unknown/Left Blank,60,360
+Cass,2020-12-25,race,AI/AN**,0,9
+Cass,2020-12-25,race,Asian,10,29
+Cass,2020-12-25,race,Black,53,364
+Cass,2020-12-25,race,Hispanic,494,1759
+Cass,2020-12-25,race,Left Blank,187,3438
+Cass,2020-12-25,race,NH/PI*,0,0
+Cass,2020-12-25,race,Other,7,157
+Cass,2020-12-25,race,White,737,5973
 Cass,2020-12-24,age,<20,7,7
 Cass,2020-12-24,age,20-29,6,6
 Cass,2020-12-24,age,30-39,5,5
@@ -9125,6 +9299,26 @@ Cass,2020-11-02,race,Left Blank,29,1895
 Cass,2020-11-02,race,NH/PI*,0,0
 Cass,2020-11-02,race,Other,0,107
 Cass,2020-11-02,race,White,251,2964
+Champaign,2020-12-25,age,<20,6,5
+Champaign,2020-12-25,age,20-29,8,6
+Champaign,2020-12-25,age,30-39,4,1
+Champaign,2020-12-25,age,40-49,3,9
+Champaign,2020-12-25,age,50-59,2,8
+Champaign,2020-12-25,age,60-69,9,7
+Champaign,2020-12-25,age,70-79,7,4
+Champaign,2020-12-25,age,80+,5,2
+Champaign,2020-12-25,age,Unknown,1,3
+Champaign,2020-12-25,gender,Female,6666,611448
+Champaign,2020-12-25,gender,Male,6655,629962
+Champaign,2020-12-25,gender,Unknown/Left Blank,24,2684
+Champaign,2020-12-25,race,AI/AN**,0,1793
+Champaign,2020-12-25,race,Asian,661,233436
+Champaign,2020-12-25,race,Black,1975,94925
+Champaign,2020-12-25,race,Hispanic,1680,86738
+Champaign,2020-12-25,race,Left Blank,423,62768
+Champaign,2020-12-25,race,NH/PI*,7,842
+Champaign,2020-12-25,race,Other,372,63993
+Champaign,2020-12-25,race,White,8227,699599
 Champaign,2020-12-24,age,<20,6,5
 Champaign,2020-12-24,age,20-29,8,6
 Champaign,2020-12-24,age,30-39,4,1
@@ -10185,6 +10379,26 @@ Champaign,2020-11-02,race,Left Blank,150,29989
 Champaign,2020-11-02,race,NH/PI*,6,583
 Champaign,2020-11-02,race,Other,204,50488
 Champaign,2020-11-02,race,White,4245,470553
+Chicago,2020-12-25,age,<20,2,3
+Chicago,2020-12-25,age,20-29,6,8
+Chicago,2020-12-25,age,30-39,5,7
+Chicago,2020-12-25,age,40-49,4,6
+Chicago,2020-12-25,age,50-59,3,5
+Chicago,2020-12-25,age,60-69,1,4
+Chicago,2020-12-25,age,70-79,9,2
+Chicago,2020-12-25,age,80+,7,9
+Chicago,2020-12-25,age,Unknown,8,1
+Chicago,2020-12-25,gender,Female,101453,1324628
+Chicago,2020-12-25,gender,Male,95399,1083446
+Chicago,2020-12-25,gender,Unknown/Left Blank,2337,75270
+Chicago,2020-12-25,race,AI/AN**,239,2321
+Chicago,2020-12-25,race,Asian,4467,71396
+Chicago,2020-12-25,race,Black,33383,369727
+Chicago,2020-12-25,race,Hispanic,68911,348206
+Chicago,2020-12-25,race,Left Blank,50608,1105342
+Chicago,2020-12-25,race,NH/PI*,195,2654
+Chicago,2020-12-25,race,Other,8188,88988
+Chicago,2020-12-25,race,White,33194,494710
 Chicago,2020-12-24,age,<20,2,3
 Chicago,2020-12-24,age,20-29,6,8
 Chicago,2020-12-24,age,30-39,5,7
@@ -11245,6 +11459,26 @@ Chicago,2020-11-02,race,Left Blank,22056,685749
 Chicago,2020-11-02,race,NH/PI*,144,2065
 Chicago,2020-11-02,race,Other,3999,53643
 Chicago,2020-11-02,race,White,16584,314013
+Christian,2020-12-25,age,<20,4,4
+Christian,2020-12-25,age,20-29,6,9
+Christian,2020-12-25,age,30-39,7,7
+Christian,2020-12-25,age,40-49,8,6
+Christian,2020-12-25,age,50-59,9,8
+Christian,2020-12-25,age,60-69,5,5
+Christian,2020-12-25,age,70-79,3,2
+Christian,2020-12-25,age,80+,2,3
+Christian,2020-12-25,age,Unknown,1,1
+Christian,2020-12-25,gender,Female,1117,14643
+Christian,2020-12-25,gender,Male,1261,8824
+Christian,2020-12-25,gender,Unknown/Left Blank,115,1894
+Christian,2020-12-25,race,AI/AN**,0,13
+Christian,2020-12-25,race,Asian,0,40
+Christian,2020-12-25,race,Black,69,147
+Christian,2020-12-25,race,Hispanic,64,145
+Christian,2020-12-25,race,Left Blank,1214,12872
+Christian,2020-12-25,race,NH/PI*,0,6
+Christian,2020-12-25,race,Other,30,401
+Christian,2020-12-25,race,White,1105,11737
 Christian,2020-12-24,age,<20,4,4
 Christian,2020-12-24,age,20-29,6,9
 Christian,2020-12-24,age,30-39,7,7
@@ -12305,6 +12539,25 @@ Christian,2020-11-02,race,Left Blank,490,7527
 Christian,2020-11-02,race,NH/PI*,0,0
 Christian,2020-11-02,race,Other,14,259
 Christian,2020-11-02,race,White,385,7197
+Clark,2020-12-25,age,<20,7,8
+Clark,2020-12-25,age,20-29,6,1
+Clark,2020-12-25,age,30-39,5,6
+Clark,2020-12-25,age,40-49,3,3
+Clark,2020-12-25,age,50-59,4,5
+Clark,2020-12-25,age,60-69,2,4
+Clark,2020-12-25,age,70-79,8,9
+Clark,2020-12-25,age,80+,9,2
+Clark,2020-12-25,age,Unknown,1,7
+Clark,2020-12-25,gender,Female,513,5827
+Clark,2020-12-25,gender,Male,366,3001
+Clark,2020-12-25,gender,Unknown/Left Blank,251,368
+Clark,2020-12-25,race,AI/AN**,0,0
+Clark,2020-12-25,race,Asian,0,9
+Clark,2020-12-25,race,Black,0,14
+Clark,2020-12-25,race,Hispanic,7,29
+Clark,2020-12-25,race,Left Blank,269,4073
+Clark,2020-12-25,race,Other,8,232
+Clark,2020-12-25,race,White,838,4835
 Clark,2020-12-24,age,<20,7,8
 Clark,2020-12-24,age,20-29,5,1
 Clark,2020-12-24,age,30-39,6,6
@@ -13312,6 +13565,26 @@ Clark,2020-11-02,race,Hispanic,0,16
 Clark,2020-11-02,race,Left Blank,103,2259
 Clark,2020-11-02,race,Other,7,216
 Clark,2020-11-02,race,White,221,3252
+Clay,2020-12-25,age,<20,4,7
+Clay,2020-12-25,age,20-29,3,6
+Clay,2020-12-25,age,30-39,5,3
+Clay,2020-12-25,age,40-49,6,2
+Clay,2020-12-25,age,50-59,7,5
+Clay,2020-12-25,age,60-69,5,4
+Clay,2020-12-25,age,70-79,2,9
+Clay,2020-12-25,age,80+,8,8
+Clay,2020-12-25,age,Unknown,1,1
+Clay,2020-12-25,gender,Female,625,5843
+Clay,2020-12-25,gender,Male,537,3713
+Clay,2020-12-25,gender,Unknown/Left Blank,0,160
+Clay,2020-12-25,race,AI/AN**,0,6
+Clay,2020-12-25,race,Asian,0,28
+Clay,2020-12-25,race,Black,7,39
+Clay,2020-12-25,race,Hispanic,0,37
+Clay,2020-12-25,race,Left Blank,129,2003
+Clay,2020-12-25,race,NH/PI*,0,0
+Clay,2020-12-25,race,Other,6,195
+Clay,2020-12-25,race,White,1021,7406
 Clay,2020-12-24,age,<20,4,7
 Clay,2020-12-24,age,20-29,3,6
 Clay,2020-12-24,age,30-39,6,3
@@ -14372,6 +14645,26 @@ Clay,2020-11-02,race,Left Blank,45,1455
 Clay,2020-11-02,race,NH/PI*,0,0
 Clay,2020-11-02,race,Other,6,165
 Clay,2020-11-02,race,White,304,3107
+Clinton,2020-12-25,age,<20,5,4
+Clinton,2020-12-25,age,20-29,7,8
+Clinton,2020-12-25,age,30-39,6,7
+Clinton,2020-12-25,age,40-49,4,5
+Clinton,2020-12-25,age,50-59,8,9
+Clinton,2020-12-25,age,60-69,3,6
+Clinton,2020-12-25,age,70-79,1,1
+Clinton,2020-12-25,age,80+,2,2
+Clinton,2020-12-25,age,Unknown,9,3
+Clinton,2020-12-25,gender,Female,2298,21057
+Clinton,2020-12-25,gender,Male,1948,14143
+Clinton,2020-12-25,gender,Unknown/Left Blank,76,853
+Clinton,2020-12-25,race,AI/AN**,0,10
+Clinton,2020-12-25,race,Asian,0,51
+Clinton,2020-12-25,race,Black,72,924
+Clinton,2020-12-25,race,Hispanic,54,247
+Clinton,2020-12-25,race,Left Blank,1871,17109
+Clinton,2020-12-25,race,NH/PI*,0,10
+Clinton,2020-12-25,race,Other,96,583
+Clinton,2020-12-25,race,White,2223,17119
 Clinton,2020-12-24,age,<20,5,4
 Clinton,2020-12-24,age,20-29,7,8
 Clinton,2020-12-24,age,30-39,6,7
@@ -15432,6 +15725,26 @@ Clinton,2020-11-02,race,Left Blank,772,8593
 Clinton,2020-11-02,race,NH/PI*,0,0
 Clinton,2020-11-02,race,Other,66,446
 Clinton,2020-11-02,race,White,1019,9457
+Coles,2020-12-25,age,<20,8,8
+Coles,2020-12-25,age,20-29,9,9
+Coles,2020-12-25,age,30-39,7,7
+Coles,2020-12-25,age,40-49,4,4
+Coles,2020-12-25,age,50-59,6,6
+Coles,2020-12-25,age,60-69,5,5
+Coles,2020-12-25,age,70-79,3,3
+Coles,2020-12-25,age,80+,2,2
+Coles,2020-12-25,age,Unknown,1,1
+Coles,2020-12-25,gender,Female,2236,27357
+Coles,2020-12-25,gender,Male,1861,17423
+Coles,2020-12-25,gender,Unknown/Left Blank,70,822
+Coles,2020-12-25,race,AI/AN**,0,19
+Coles,2020-12-25,race,Asian,16,226
+Coles,2020-12-25,race,Black,131,1814
+Coles,2020-12-25,race,Hispanic,91,587
+Coles,2020-12-25,race,Left Blank,573,7787
+Coles,2020-12-25,race,NH/PI*,0,15
+Coles,2020-12-25,race,Other,76,1682
+Coles,2020-12-25,race,White,3272,33472
 Coles,2020-12-24,age,<20,8,8
 Coles,2020-12-24,age,20-29,9,9
 Coles,2020-12-24,age,30-39,7,7
@@ -16492,6 +16805,26 @@ Coles,2020-11-02,race,Left Blank,300,4169
 Coles,2020-11-02,race,NH/PI*,0,10
 Coles,2020-11-02,race,Other,45,1481
 Coles,2020-11-02,race,White,1678,21474
+Cook,2020-12-25,age,<20,3,4
+Cook,2020-12-25,age,20-29,7,9
+Cook,2020-12-25,age,30-39,5,7
+Cook,2020-12-25,age,40-49,6,6
+Cook,2020-12-25,age,50-59,4,8
+Cook,2020-12-25,age,60-69,2,5
+Cook,2020-12-25,age,70-79,1,2
+Cook,2020-12-25,age,80+,9,3
+Cook,2020-12-25,age,Unknown,8,1
+Cook,2020-12-25,gender,Female,95388,1258626
+Cook,2020-12-25,gender,Male,85913,910648
+Cook,2020-12-25,gender,Unknown/Left Blank,1723,57245
+Cook,2020-12-25,race,AI/AN**,317,2016
+Cook,2020-12-25,race,Asian,5863,74064
+Cook,2020-12-25,race,Black,17928,202786
+Cook,2020-12-25,race,Hispanic,35894,181065
+Cook,2020-12-25,race,Left Blank,64890,1115352
+Cook,2020-12-25,race,NH/PI*,257,2951
+Cook,2020-12-25,race,Other,9966,85272
+Cook,2020-12-25,race,White,47904,563013
 Cook,2020-12-24,age,<20,3,4
 Cook,2020-12-24,age,20-29,7,9
 Cook,2020-12-24,age,30-39,5,7
@@ -17552,6 +17885,26 @@ Cook,2020-11-02,race,Left Blank,28457,683435
 Cook,2020-11-02,race,NH/PI*,210,1920
 Cook,2020-11-02,race,Other,4887,53281
 Cook,2020-11-02,race,White,22205,352656
+Crawford,2020-12-25,age,<20,5,4
+Crawford,2020-12-25,age,20-29,6,5
+Crawford,2020-12-25,age,30-39,8,8
+Crawford,2020-12-25,age,40-49,7,7
+Crawford,2020-12-25,age,50-59,7,6
+Crawford,2020-12-25,age,60-69,4,2
+Crawford,2020-12-25,age,70-79,3,9
+Crawford,2020-12-25,age,80+,2,1
+Crawford,2020-12-25,age,Unknown,1,3
+Crawford,2020-12-25,gender,Female,675,7320
+Crawford,2020-12-25,gender,Male,794,5190
+Crawford,2020-12-25,gender,Unknown/Left Blank,57,5830
+Crawford,2020-12-25,race,AI/AN**,0,0
+Crawford,2020-12-25,race,Asian,0,23
+Crawford,2020-12-25,race,Black,152,358
+Crawford,2020-12-25,race,Hispanic,36,71
+Crawford,2020-12-25,race,Left Blank,200,9409
+Crawford,2020-12-25,race,NH/PI*,0,0
+Crawford,2020-12-25,race,Other,16,539
+Crawford,2020-12-25,race,White,1112,7939
 Crawford,2020-12-24,age,<20,5,4
 Crawford,2020-12-24,age,20-29,6,5
 Crawford,2020-12-24,age,30-39,9,8
@@ -18612,6 +18965,23 @@ Crawford,2020-11-02,race,Left Blank,97,1731
 Crawford,2020-11-02,race,NH/PI*,0,0
 Crawford,2020-11-02,race,Other,13,451
 Crawford,2020-11-02,race,White,387,3717
+Cumberland,2020-12-25,age,<20,5,1
+Cumberland,2020-12-25,age,20-29,4,3
+Cumberland,2020-12-25,age,30-39,3,7
+Cumberland,2020-12-25,age,40-49,2,2
+Cumberland,2020-12-25,age,50-59,6,7
+Cumberland,2020-12-25,age,60-69,1,5
+Cumberland,2020-12-25,age,70-79,7,4
+Cumberland,2020-12-25,age,80+,8,6
+Cumberland,2020-12-25,gender,Female,479,4792
+Cumberland,2020-12-25,gender,Male,413,2614
+Cumberland,2020-12-25,gender,Unknown/Left Blank,7,154
+Cumberland,2020-12-25,race,Asian,0,8
+Cumberland,2020-12-25,race,Black,0,17
+Cumberland,2020-12-25,race,Hispanic,0,35
+Cumberland,2020-12-25,race,Left Blank,228,1339
+Cumberland,2020-12-25,race,Other,15,312
+Cumberland,2020-12-25,race,White,656,5849
 Cumberland,2020-12-24,age,<20,5,1
 Cumberland,2020-12-24,age,20-29,4,3
 Cumberland,2020-12-24,age,30-39,3,7
@@ -19513,6 +19883,26 @@ Cumberland,2020-11-02,race,Hispanic,0,24
 Cumberland,2020-11-02,race,Left Blank,80,493
 Cumberland,2020-11-02,race,Other,7,276
 Cumberland,2020-11-02,race,White,236,4004
+De Witt,2020-12-25,age,<20,6,7
+De Witt,2020-12-25,age,20-29,3,6
+De Witt,2020-12-25,age,30-39,4,4
+De Witt,2020-12-25,age,40-49,9,3
+De Witt,2020-12-25,age,50-59,5,5
+De Witt,2020-12-25,age,60-69,2,2
+De Witt,2020-12-25,age,70-79,8,9
+De Witt,2020-12-25,age,80+,7,8
+De Witt,2020-12-25,age,Unknown,1,1
+De Witt,2020-12-25,gender,Female,464,7117
+De Witt,2020-12-25,gender,Male,393,4299
+De Witt,2020-12-25,gender,Unknown/Left Blank,7,212
+De Witt,2020-12-25,race,AI/AN**,0,6
+De Witt,2020-12-25,race,Asian,0,19
+De Witt,2020-12-25,race,Black,0,64
+De Witt,2020-12-25,race,Hispanic,7,65
+De Witt,2020-12-25,race,Left Blank,257,5804
+De Witt,2020-12-25,race,NH/PI*,0,7
+De Witt,2020-12-25,race,Other,6,149
+De Witt,2020-12-25,race,White,585,5514
 De Witt,2020-12-24,age,<20,6,7
 De Witt,2020-12-24,age,20-29,3,6
 De Witt,2020-12-24,age,30-39,4,4
@@ -20573,6 +20963,26 @@ De Witt,2020-11-02,race,Left Blank,65,3068
 De Witt,2020-11-02,race,NH/PI*,0,0
 De Witt,2020-11-02,race,Other,0,109
 De Witt,2020-11-02,race,White,231,3279
+DeKalb,2020-12-25,age,<20,2,2
+DeKalb,2020-12-25,age,20-29,3,3
+DeKalb,2020-12-25,age,30-39,8,1
+DeKalb,2020-12-25,age,40-49,9,8
+DeKalb,2020-12-25,age,50-59,7,9
+DeKalb,2020-12-25,age,60-69,6,7
+DeKalb,2020-12-25,age,70-79,5,5
+DeKalb,2020-12-25,age,80+,4,6
+DeKalb,2020-12-25,age,Unknown,1,4
+DeKalb,2020-12-25,gender,Female,3386,47625
+DeKalb,2020-12-25,gender,Male,2993,30744
+DeKalb,2020-12-25,gender,Unknown/Left Blank,22,1097
+DeKalb,2020-12-25,race,AI/AN**,0,42
+DeKalb,2020-12-25,race,Asian,71,914
+DeKalb,2020-12-25,race,Black,436,5290
+DeKalb,2020-12-25,race,Hispanic,1063,5024
+DeKalb,2020-12-25,race,Left Blank,1757,36211
+DeKalb,2020-12-25,race,NH/PI*,0,31
+DeKalb,2020-12-25,race,Other,79,935
+DeKalb,2020-12-25,race,White,2983,31019
 DeKalb,2020-12-24,age,<20,2,2
 DeKalb,2020-12-24,age,20-29,3,3
 DeKalb,2020-12-24,age,30-39,8,1
@@ -21633,6 +22043,26 @@ DeKalb,2020-11-02,race,Left Blank,393,21801
 DeKalb,2020-11-02,race,NH/PI*,0,13
 DeKalb,2020-11-02,race,Other,34,621
 DeKalb,2020-11-02,race,White,1462,19861
+Douglas,2020-12-25,age,<20,8,8
+Douglas,2020-12-25,age,20-29,5,7
+Douglas,2020-12-25,age,30-39,4,4
+Douglas,2020-12-25,age,40-49,7,6
+Douglas,2020-12-25,age,50-59,6,3
+Douglas,2020-12-25,age,60-69,3,5
+Douglas,2020-12-25,age,70-79,2,1
+Douglas,2020-12-25,age,80+,9,2
+Douglas,2020-12-25,age,Unknown,1,9
+Douglas,2020-12-25,gender,Female,900,11310
+Douglas,2020-12-25,gender,Male,862,7832
+Douglas,2020-12-25,gender,Unknown/Left Blank,15,128
+Douglas,2020-12-25,race,AI/AN**,0,12
+Douglas,2020-12-25,race,Asian,0,54
+Douglas,2020-12-25,race,Black,0,116
+Douglas,2020-12-25,race,Hispanic,248,1072
+Douglas,2020-12-25,race,Left Blank,335,3856
+Douglas,2020-12-25,race,NH/PI*,0,14
+Douglas,2020-12-25,race,Other,56,543
+Douglas,2020-12-25,race,White,1123,13603
 Douglas,2020-12-24,age,<20,7,8
 Douglas,2020-12-24,age,20-29,5,7
 Douglas,2020-12-24,age,30-39,3,4
@@ -22693,6 +23123,26 @@ Douglas,2020-11-02,race,Left Blank,186,2354
 Douglas,2020-11-02,race,NH/PI*,0,0
 Douglas,2020-11-02,race,Other,28,400
 Douglas,2020-11-02,race,White,440,8398
+DuPage,2020-12-25,age,<20,8,7
+DuPage,2020-12-25,age,20-29,2,3
+DuPage,2020-12-25,age,30-39,7,1
+DuPage,2020-12-25,age,40-49,6,8
+DuPage,2020-12-25,age,50-59,9,2
+DuPage,2020-12-25,age,60-69,5,9
+DuPage,2020-12-25,age,70-79,4,5
+DuPage,2020-12-25,age,80+,3,6
+DuPage,2020-12-25,age,Unknown,1,4
+DuPage,2020-12-25,gender,Female,30623,430707
+DuPage,2020-12-25,gender,Male,28575,308209
+DuPage,2020-12-25,gender,Unknown/Left Blank,379,17480
+DuPage,2020-12-25,race,AI/AN**,65,503
+DuPage,2020-12-25,race,Asian,3075,28622
+DuPage,2020-12-25,race,Black,2023,20930
+DuPage,2020-12-25,race,Hispanic,10068,39415
+DuPage,2020-12-25,race,Left Blank,19977,418285
+DuPage,2020-12-25,race,NH/PI*,57,494
+DuPage,2020-12-25,race,Other,2019,21202
+DuPage,2020-12-25,race,White,22288,226945
 DuPage,2020-12-24,age,<20,8,7
 DuPage,2020-12-24,age,20-29,2,3
 DuPage,2020-12-24,age,30-39,7,1
@@ -23753,6 +24203,26 @@ DuPage,2020-11-02,race,Left Blank,6977,247537
 DuPage,2020-11-02,race,NH/PI*,37,319
 DuPage,2020-11-02,race,Other,859,12285
 DuPage,2020-11-02,race,White,10148,139889
+Edgar,2020-12-25,age,<20,9,2
+Edgar,2020-12-25,age,20-29,4,8
+Edgar,2020-12-25,age,30-39,7,3
+Edgar,2020-12-25,age,40-49,8,5
+Edgar,2020-12-25,age,50-59,5,4
+Edgar,2020-12-25,age,60-69,6,6
+Edgar,2020-12-25,age,70-79,3,9
+Edgar,2020-12-25,age,80+,2,7
+Edgar,2020-12-25,age,Unknown,1,1
+Edgar,2020-12-25,gender,Female,413,5409
+Edgar,2020-12-25,gender,Male,320,2772
+Edgar,2020-12-25,gender,Unknown/Left Blank,568,884
+Edgar,2020-12-25,race,AI/AN**,0,0
+Edgar,2020-12-25,race,Asian,0,0
+Edgar,2020-12-25,race,Black,0,34
+Edgar,2020-12-25,race,Hispanic,0,24
+Edgar,2020-12-25,race,Left Blank,146,4492
+Edgar,2020-12-25,race,NH/PI*,0,0
+Edgar,2020-12-25,race,Other,0,78
+Edgar,2020-12-25,race,White,1143,4430
 Edgar,2020-12-24,age,<20,9,2
 Edgar,2020-12-24,age,20-29,4,8
 Edgar,2020-12-24,age,30-39,7,3
@@ -24813,6 +25283,24 @@ Edgar,2020-11-02,race,Left Blank,33,2949
 Edgar,2020-11-02,race,NH/PI*,0,0
 Edgar,2020-11-02,race,Other,0,62
 Edgar,2020-11-02,race,White,141,2108
+Edwards,2020-12-25,age,<20,6,9
+Edwards,2020-12-25,age,20-29,5,8
+Edwards,2020-12-25,age,30-39,3,5
+Edwards,2020-12-25,age,40-49,4,6
+Edwards,2020-12-25,age,50-59,7,7
+Edwards,2020-12-25,age,60-69,8,4
+Edwards,2020-12-25,age,70-79,5,3
+Edwards,2020-12-25,age,80+,2,2
+Edwards,2020-12-25,age,Unknown,1,1
+Edwards,2020-12-25,gender,Female,196,1625
+Edwards,2020-12-25,gender,Male,165,807
+Edwards,2020-12-25,gender,Unknown/Left Blank,0,76
+Edwards,2020-12-25,race,Asian,0,0
+Edwards,2020-12-25,race,Black,0,0
+Edwards,2020-12-25,race,Hispanic,0,0
+Edwards,2020-12-25,race,Left Blank,33,567
+Edwards,2020-12-25,race,Other,0,6
+Edwards,2020-12-25,race,White,324,1922
 Edwards,2020-12-24,age,<20,6,9
 Edwards,2020-12-24,age,20-29,5,8
 Edwards,2020-12-24,age,30-39,3,5
@@ -25767,6 +26255,26 @@ Edwards,2020-11-02,race,Hispanic,0,0
 Edwards,2020-11-02,race,Left Blank,21,339
 Edwards,2020-11-02,race,Other,0,0
 Edwards,2020-11-02,race,White,96,843
+Effingham,2020-12-25,age,<20,9,7
+Effingham,2020-12-25,age,20-29,7,6
+Effingham,2020-12-25,age,30-39,6,5
+Effingham,2020-12-25,age,40-49,4,2
+Effingham,2020-12-25,age,50-59,8,8
+Effingham,2020-12-25,age,60-69,5,9
+Effingham,2020-12-25,age,70-79,3,3
+Effingham,2020-12-25,age,80+,2,4
+Effingham,2020-12-25,age,Unknown,1,1
+Effingham,2020-12-25,gender,Female,1930,16604
+Effingham,2020-12-25,gender,Male,1537,9805
+Effingham,2020-12-25,gender,Unknown/Left Blank,252,454
+Effingham,2020-12-25,race,AI/AN**,0,0
+Effingham,2020-12-25,race,Asian,0,31
+Effingham,2020-12-25,race,Black,0,80
+Effingham,2020-12-25,race,Hispanic,25,99
+Effingham,2020-12-25,race,Left Blank,1985,12202
+Effingham,2020-12-25,race,NH/PI*,0,0
+Effingham,2020-12-25,race,Other,112,2031
+Effingham,2020-12-25,race,White,1587,12412
 Effingham,2020-12-24,age,<20,9,7
 Effingham,2020-12-24,age,20-29,7,6
 Effingham,2020-12-24,age,30-39,6,5
@@ -26827,6 +27335,26 @@ Effingham,2020-11-02,race,Left Blank,693,6522
 Effingham,2020-11-02,race,NH/PI*,0,0
 Effingham,2020-11-02,race,Other,99,1987
 Effingham,2020-11-02,race,White,550,7005
+Fayette,2020-12-25,age,<20,4,3
+Fayette,2020-12-25,age,20-29,7,7
+Fayette,2020-12-25,age,30-39,6,5
+Fayette,2020-12-25,age,40-49,8,8
+Fayette,2020-12-25,age,50-59,8,6
+Fayette,2020-12-25,age,60-69,5,4
+Fayette,2020-12-25,age,70-79,3,2
+Fayette,2020-12-25,age,80+,2,1
+Fayette,2020-12-25,age,Unknown,1,9
+Fayette,2020-12-25,gender,Female,1156,9882
+Fayette,2020-12-25,gender,Male,1348,6016
+Fayette,2020-12-25,gender,Unknown/Left Blank,67,1264
+Fayette,2020-12-25,race,AI/AN**,0,0
+Fayette,2020-12-25,race,Asian,6,10
+Fayette,2020-12-25,race,Black,111,354
+Fayette,2020-12-25,race,Hispanic,21,80
+Fayette,2020-12-25,race,Left Blank,865,8880
+Fayette,2020-12-25,race,NH/PI*,0,0
+Fayette,2020-12-25,race,Other,55,1224
+Fayette,2020-12-25,race,White,1507,6606
 Fayette,2020-12-24,age,<20,4,3
 Fayette,2020-12-24,age,20-29,7,8
 Fayette,2020-12-24,age,30-39,6,5
@@ -27887,6 +28415,26 @@ Fayette,2020-11-02,race,Left Blank,270,4269
 Fayette,2020-11-02,race,NH/PI*,0,0
 Fayette,2020-11-02,race,Other,37,1198
 Fayette,2020-11-02,race,White,439,2902
+Ford,2020-12-25,age,<20,8,6
+Ford,2020-12-25,age,20-29,7,8
+Ford,2020-12-25,age,30-39,6,7
+Ford,2020-12-25,age,40-49,2,3
+Ford,2020-12-25,age,50-59,5,5
+Ford,2020-12-25,age,60-69,3,4
+Ford,2020-12-25,age,70-79,9,1
+Ford,2020-12-25,age,80+,4,2
+Ford,2020-12-25,age,Unknown,1,9
+Ford,2020-12-25,gender,Female,657,10650
+Ford,2020-12-25,gender,Male,484,5881
+Ford,2020-12-25,gender,Unknown/Left Blank,37,710
+Ford,2020-12-25,race,AI/AN**,0,10
+Ford,2020-12-25,race,Asian,0,49
+Ford,2020-12-25,race,Black,0,120
+Ford,2020-12-25,race,Hispanic,31,224
+Ford,2020-12-25,race,Left Blank,221,5661
+Ford,2020-12-25,race,NH/PI*,0,10
+Ford,2020-12-25,race,Other,17,234
+Ford,2020-12-25,race,White,896,10933
 Ford,2020-12-24,age,<20,8,6
 Ford,2020-12-24,age,20-29,7,8
 Ford,2020-12-24,age,30-39,6,7
@@ -28947,6 +29495,25 @@ Ford,2020-11-02,race,Left Blank,41,3065
 Ford,2020-11-02,race,NH/PI*,0,6
 Ford,2020-11-02,race,Other,6,147
 Ford,2020-11-02,race,White,166,4569
+Franklin,2020-12-25,age,<20,6,4
+Franklin,2020-12-25,age,20-29,8,8
+Franklin,2020-12-25,age,30-39,5,7
+Franklin,2020-12-25,age,40-49,7,6
+Franklin,2020-12-25,age,50-59,9,9
+Franklin,2020-12-25,age,60-69,4,5
+Franklin,2020-12-25,age,70-79,3,2
+Franklin,2020-12-25,age,80+,2,3
+Franklin,2020-12-25,age,Unknown,1,1
+Franklin,2020-12-25,gender,Female,1710,17770
+Franklin,2020-12-25,gender,Male,1345,10290
+Franklin,2020-12-25,gender,Unknown/Left Blank,119,2319
+Franklin,2020-12-25,race,AI/AN**,0,0
+Franklin,2020-12-25,race,Asian,0,26
+Franklin,2020-12-25,race,Black,10,88
+Franklin,2020-12-25,race,Hispanic,21,182
+Franklin,2020-12-25,race,Left Blank,926,10652
+Franklin,2020-12-25,race,Other,20,299
+Franklin,2020-12-25,race,White,2193,19129
 Franklin,2020-12-24,age,<20,6,4
 Franklin,2020-12-24,age,20-29,8,8
 Franklin,2020-12-24,age,30-39,5,7
@@ -29954,6 +30521,26 @@ Franklin,2020-11-02,race,Hispanic,7,109
 Franklin,2020-11-02,race,Left Blank,303,6661
 Franklin,2020-11-02,race,Other,10,207
 Franklin,2020-11-02,race,White,794,10335
+Fulton,2020-12-25,age,<20,8,3
+Fulton,2020-12-25,age,20-29,9,6
+Fulton,2020-12-25,age,30-39,5,8
+Fulton,2020-12-25,age,40-49,7,7
+Fulton,2020-12-25,age,50-59,6,9
+Fulton,2020-12-25,age,60-69,4,4
+Fulton,2020-12-25,age,70-79,2,1
+Fulton,2020-12-25,age,80+,1,2
+Fulton,2020-12-25,age,Unknown,3,5
+Fulton,2020-12-25,gender,Female,1128,22271
+Fulton,2020-12-25,gender,Male,1035,12812
+Fulton,2020-12-25,gender,Unknown/Left Blank,81,1452
+Fulton,2020-12-25,race,AI/AN**,0,13
+Fulton,2020-12-25,race,Asian,0,11
+Fulton,2020-12-25,race,Black,79,444
+Fulton,2020-12-25,race,Hispanic,32,139
+Fulton,2020-12-25,race,Left Blank,1596,28389
+Fulton,2020-12-25,race,NH/PI*,0,0
+Fulton,2020-12-25,race,Other,13,134
+Fulton,2020-12-25,race,White,516,7403
 Fulton,2020-12-24,age,<20,8,4
 Fulton,2020-12-24,age,20-29,9,6
 Fulton,2020-12-24,age,30-39,5,8
@@ -31014,6 +31601,25 @@ Fulton,2020-11-02,race,Left Blank,490,13006
 Fulton,2020-11-02,race,NH/PI*,0,0
 Fulton,2020-11-02,race,Other,0,69
 Fulton,2020-11-02,race,White,173,3558
+Gallatin,2020-12-25,age,<20,4,8
+Gallatin,2020-12-25,age,20-29,4,7
+Gallatin,2020-12-25,age,30-39,6,6
+Gallatin,2020-12-25,age,40-49,6,4
+Gallatin,2020-12-25,age,50-59,7,5
+Gallatin,2020-12-25,age,60-69,5,3
+Gallatin,2020-12-25,age,70-79,3,2
+Gallatin,2020-12-25,age,80+,2,9
+Gallatin,2020-12-25,age,Unknown,1,1
+Gallatin,2020-12-25,gender,Female,163,1545
+Gallatin,2020-12-25,gender,Male,141,788
+Gallatin,2020-12-25,gender,Unknown/Left Blank,6,78
+Gallatin,2020-12-25,race,AI/AN**,0,0
+Gallatin,2020-12-25,race,Asian,0,0
+Gallatin,2020-12-25,race,Black,0,24
+Gallatin,2020-12-25,race,Hispanic,9,22
+Gallatin,2020-12-25,race,Left Blank,62,915
+Gallatin,2020-12-25,race,Other,0,18
+Gallatin,2020-12-25,race,White,234,1430
 Gallatin,2020-12-24,age,<20,5,8
 Gallatin,2020-12-24,age,20-29,4,7
 Gallatin,2020-12-24,age,30-39,7,6
@@ -32003,6 +32609,26 @@ Gallatin,2020-11-02,race,Hispanic,0,0
 Gallatin,2020-11-02,race,Left Blank,15,391
 Gallatin,2020-11-02,race,Other,0,11
 Gallatin,2020-11-02,race,White,102,755
+Greene,2020-12-25,age,<20,1,4
+Greene,2020-12-25,age,20-29,3,5
+Greene,2020-12-25,age,30-39,4,6
+Greene,2020-12-25,age,40-49,2,3
+Greene,2020-12-25,age,50-59,5,7
+Greene,2020-12-25,age,60-69,2,2
+Greene,2020-12-25,age,70-79,1,9
+Greene,2020-12-25,age,80+,7,8
+Greene,2020-12-25,age,Unknown,6,1
+Greene,2020-12-25,gender,Female,560,5394
+Greene,2020-12-25,gender,Male,429,2980
+Greene,2020-12-25,gender,Unknown/Left Blank,101,614
+Greene,2020-12-25,race,AI/AN**,0,0
+Greene,2020-12-25,race,Asian,0,7
+Greene,2020-12-25,race,Black,0,30
+Greene,2020-12-25,race,Hispanic,0,14
+Greene,2020-12-25,race,Left Blank,522,5038
+Greene,2020-12-25,race,NH/PI*,0,0
+Greene,2020-12-25,race,Other,7,52
+Greene,2020-12-25,race,White,559,3843
 Greene,2020-12-24,age,<20,1,4
 Greene,2020-12-24,age,20-29,4,5
 Greene,2020-12-24,age,30-39,5,6
@@ -33063,6 +33689,26 @@ Greene,2020-11-02,race,Left Blank,208,3152
 Greene,2020-11-02,race,NH/PI*,0,0
 Greene,2020-11-02,race,Other,0,43
 Greene,2020-11-02,race,White,136,1991
+Grundy,2020-12-25,age,<20,7,8
+Grundy,2020-12-25,age,20-29,9,9
+Grundy,2020-12-25,age,30-39,6,7
+Grundy,2020-12-25,age,40-49,8,5
+Grundy,2020-12-25,age,50-59,5,6
+Grundy,2020-12-25,age,60-69,4,4
+Grundy,2020-12-25,age,70-79,3,3
+Grundy,2020-12-25,age,80+,2,2
+Grundy,2020-12-25,age,Unknown,1,1
+Grundy,2020-12-25,gender,Female,1884,17263
+Grundy,2020-12-25,gender,Male,1802,12342
+Grundy,2020-12-25,gender,Unknown/Left Blank,39,385
+Grundy,2020-12-25,race,AI/AN**,0,16
+Grundy,2020-12-25,race,Asian,7,85
+Grundy,2020-12-25,race,Black,27,330
+Grundy,2020-12-25,race,Hispanic,182,960
+Grundy,2020-12-25,race,Left Blank,1254,10508
+Grundy,2020-12-25,race,NH/PI*,0,8
+Grundy,2020-12-25,race,Other,246,1444
+Grundy,2020-12-25,race,White,2006,16639
 Grundy,2020-12-24,age,<20,6,8
 Grundy,2020-12-24,age,20-29,8,9
 Grundy,2020-12-24,age,30-39,6,7
@@ -34123,6 +34769,26 @@ Grundy,2020-11-02,race,Left Blank,338,6160
 Grundy,2020-11-02,race,NH/PI*,0,0
 Grundy,2020-11-02,race,Other,38,570
 Grundy,2020-11-02,race,White,666,8066
+Hamilton,2020-12-25,age,<20,4,6
+Hamilton,2020-12-25,age,20-29,5,4
+Hamilton,2020-12-25,age,30-39,9,7
+Hamilton,2020-12-25,age,40-49,7,8
+Hamilton,2020-12-25,age,50-59,8,8
+Hamilton,2020-12-25,age,60-69,6,5
+Hamilton,2020-12-25,age,70-79,3,3
+Hamilton,2020-12-25,age,80+,2,2
+Hamilton,2020-12-25,age,Unknown,1,1
+Hamilton,2020-12-25,gender,Female,310,2704
+Hamilton,2020-12-25,gender,Male,236,1458
+Hamilton,2020-12-25,gender,Unknown/Left Blank,11,85
+Hamilton,2020-12-25,race,AI/AN**,0,0
+Hamilton,2020-12-25,race,Asian,0,7
+Hamilton,2020-12-25,race,Black,0,16
+Hamilton,2020-12-25,race,Hispanic,6,39
+Hamilton,2020-12-25,race,Left Blank,189,1179
+Hamilton,2020-12-25,race,NH/PI*,0,0
+Hamilton,2020-12-25,race,Other,0,32
+Hamilton,2020-12-25,race,White,358,2972
 Hamilton,2020-12-24,age,<20,4,6
 Hamilton,2020-12-24,age,20-29,5,4
 Hamilton,2020-12-24,age,30-39,9,7
@@ -35170,6 +35836,26 @@ Hamilton,2020-11-02,race,Left Blank,51,576
 Hamilton,2020-11-02,race,NH/PI*,0,0
 Hamilton,2020-11-02,race,Other,0,19
 Hamilton,2020-11-02,race,White,96,1583
+Hancock,2020-12-25,age,<20,4,3
+Hancock,2020-12-25,age,20-29,6,7
+Hancock,2020-12-25,age,30-39,5,6
+Hancock,2020-12-25,age,40-49,3,5
+Hancock,2020-12-25,age,50-59,8,9
+Hancock,2020-12-25,age,60-69,7,8
+Hancock,2020-12-25,age,70-79,2,2
+Hancock,2020-12-25,age,80+,9,4
+Hancock,2020-12-25,age,Unknown,1,1
+Hancock,2020-12-25,gender,Female,669,7519
+Hancock,2020-12-25,gender,Male,556,3989
+Hancock,2020-12-25,gender,Unknown/Left Blank,27,406
+Hancock,2020-12-25,race,AI/AN**,0,6
+Hancock,2020-12-25,race,Asian,0,0
+Hancock,2020-12-25,race,Black,0,13
+Hancock,2020-12-25,race,Hispanic,8,38
+Hancock,2020-12-25,race,Left Blank,830,6776
+Hancock,2020-12-25,race,NH/PI*,0,9
+Hancock,2020-12-25,race,Other,11,109
+Hancock,2020-12-25,race,White,398,4958
 Hancock,2020-12-24,age,<20,5,3
 Hancock,2020-12-24,age,20-29,6,7
 Hancock,2020-12-24,age,30-39,4,6
@@ -36230,6 +36916,25 @@ Hancock,2020-11-02,race,Left Blank,214,3780
 Hancock,2020-11-02,race,NH/PI*,0,9
 Hancock,2020-11-02,race,Other,6,72
 Hancock,2020-11-02,race,White,165,3522
+Hardin,2020-12-25,age,<20,3,3
+Hardin,2020-12-25,age,20-29,5,8
+Hardin,2020-12-25,age,30-39,3,7
+Hardin,2020-12-25,age,40-49,4,5
+Hardin,2020-12-25,age,50-59,6,9
+Hardin,2020-12-25,age,60-69,7,6
+Hardin,2020-12-25,age,70-79,5,4
+Hardin,2020-12-25,age,80+,2,2
+Hardin,2020-12-25,age,Unknown,1,1
+Hardin,2020-12-25,gender,Female,110,1937
+Hardin,2020-12-25,gender,Male,90,878
+Hardin,2020-12-25,gender,Unknown/Left Blank,0,21
+Hardin,2020-12-25,race,AI/AN**,0,0
+Hardin,2020-12-25,race,Asian,0,0
+Hardin,2020-12-25,race,Black,0,42
+Hardin,2020-12-25,race,Hispanic,0,0
+Hardin,2020-12-25,race,Left Blank,72,810
+Hardin,2020-12-25,race,Other,0,10
+Hardin,2020-12-25,race,White,126,1968
 Hardin,2020-12-24,age,<20,3,3
 Hardin,2020-12-24,age,20-29,5,8
 Hardin,2020-12-24,age,30-39,3,7
@@ -37237,6 +37942,22 @@ Hardin,2020-11-02,race,Hispanic,0,0
 Hardin,2020-11-02,race,Left Blank,14,451
 Hardin,2020-11-02,race,Other,0,0
 Hardin,2020-11-02,race,White,45,969
+Henderson,2020-12-25,age,<20,2,5
+Henderson,2020-12-25,age,20-29,6,2
+Henderson,2020-12-25,age,30-39,5,8
+Henderson,2020-12-25,age,40-49,4,6
+Henderson,2020-12-25,age,50-59,7,7
+Henderson,2020-12-25,age,60-69,7,4
+Henderson,2020-12-25,age,70-79,1,1
+Henderson,2020-12-25,age,80+,3,3
+Henderson,2020-12-25,gender,Female,218,2894
+Henderson,2020-12-25,gender,Male,157,1224
+Henderson,2020-12-25,gender,Unknown/Left Blank,10,156
+Henderson,2020-12-25,race,AI/AN**,0,0
+Henderson,2020-12-25,race,Hispanic,0,14
+Henderson,2020-12-25,race,Left Blank,142,1510
+Henderson,2020-12-25,race,Other,0,20
+Henderson,2020-12-25,race,White,243,2726
 Henderson,2020-12-24,age,<20,2,5
 Henderson,2020-12-24,age,20-29,6,2
 Henderson,2020-12-24,age,30-39,5,8
@@ -38085,6 +38806,26 @@ Henderson,2020-11-02,race,Hispanic,0,0
 Henderson,2020-11-02,race,Left Blank,46,875
 Henderson,2020-11-02,race,Other,0,17
 Henderson,2020-11-02,race,White,98,1286
+Henry,2020-12-25,age,<20,8,4
+Henry,2020-12-25,age,20-29,6,6
+Henry,2020-12-25,age,30-39,5,8
+Henry,2020-12-25,age,40-49,7,7
+Henry,2020-12-25,age,50-59,9,9
+Henry,2020-12-25,age,60-69,4,5
+Henry,2020-12-25,age,70-79,3,2
+Henry,2020-12-25,age,80+,2,3
+Henry,2020-12-25,age,Unknown,1,1
+Henry,2020-12-25,gender,Female,1964,25591
+Henry,2020-12-25,gender,Male,1563,14521
+Henry,2020-12-25,gender,Unknown/Left Blank,45,2255
+Henry,2020-12-25,race,AI/AN**,0,7
+Henry,2020-12-25,race,Asian,0,41
+Henry,2020-12-25,race,Black,42,413
+Henry,2020-12-25,race,Hispanic,108,627
+Henry,2020-12-25,race,Left Blank,1746,25627
+Henry,2020-12-25,race,NH/PI*,0,10
+Henry,2020-12-25,race,Other,82,524
+Henry,2020-12-25,race,White,1592,15118
 Henry,2020-12-24,age,<20,8,4
 Henry,2020-12-24,age,20-29,6,6
 Henry,2020-12-24,age,30-39,5,8
@@ -39145,6 +39886,73 @@ Henry,2020-11-02,race,Left Blank,537,16040
 Henry,2020-11-02,race,NH/PI*,0,0
 Henry,2020-11-02,race,Other,13,240
 Henry,2020-11-02,race,White,312,5896
+Illinois,2020-12-25,age,<20,7,11
+Illinois,2020-12-25,age,0,60,56
+Illinois,2020-12-25,age,11,25,1
+Illinois,2020-12-25,age,114733,50,58
+Illinois,2020-12-25,age,11625,48,41
+Illinois,2020-12-25,age,120079,52,58
+Illinois,2020-12-25,age,137269,6,58
+Illinois,2020-12-25,age,144775,26,58
+Illinois,2020-12-25,age,145,60,55
+Illinois,2020-12-25,age,146853,51,58
+Illinois,2020-12-25,age,16,60,55
+Illinois,2020-12-25,age,185596,22,58
+Illinois,2020-12-25,age,18812,28,57
+Illinois,2020-12-25,age,194,1,58
+Illinois,2020-12-25,age,20-29,17,25
+Illinois,2020-12-25,age,22114,29,36
+Illinois,2020-12-25,age,2274,5,40
+Illinois,2020-12-25,age,22988,2,34
+Illinois,2020-12-25,age,25055,30,21
+Illinois,2020-12-25,age,264,60,55
+Illinois,2020-12-25,age,30-39,12,18
+Illinois,2020-12-25,age,30623,18,1
+Illinois,2020-12-25,age,31375,13,51
+Illinois,2020-12-25,age,32195,8,20
+Illinois,2020-12-25,age,34208,19,57
+Illinois,2020-12-25,age,34584,56,58
+Illinois,2020-12-25,age,36237,24,23
+Illinois,2020-12-25,age,38,60,55
+Illinois,2020-12-25,age,40-49,10,14
+Illinois,2020-12-25,age,40821,41,3
+Illinois,2020-12-25,age,41455,43,1
+Illinois,2020-12-25,age,43205,39,43
+Illinois,2020-12-25,age,44984,44,17
+Illinois,2020-12-25,age,4617,23,39
+Illinois,2020-12-25,age,46394,50,57
+Illinois,2020-12-25,age,48,49,1
+Illinois,2020-12-25,age,50,1,57
+Illinois,2020-12-25,age,50-59,9,16
+Illinois,2020-12-25,age,50378,46,29
+Illinois,2020-12-25,age,51017,1,57
+Illinois,2020-12-25,age,55023,53,1
+Illinois,2020-12-25,age,60-69,55,6
+Illinois,2020-12-25,age,60974,54,58
+Illinois,2020-12-25,age,64023,1,57
+Illinois,2020-12-25,age,65224,1,57
+Illinois,2020-12-25,age,7,60,55
+Illinois,2020-12-25,age,70-79,42,48
+Illinois,2020-12-25,age,80+,34,47
+Illinois,2020-12-25,age,91,60,55
+Illinois,2020-12-25,age,95710,1,57
+Illinois,2020-12-25,age,9974,33,57
+Illinois,2020-12-25,age,AI/AN**,47,38
+Illinois,2020-12-25,age,Left Blank,45,53
+Illinois,2020-12-25,age,"rgb(31,119,180)",57,45
+Illinois,2020-12-25,age,"rgb(44,160,44)",58,54
+Illinois,2020-12-25,age,Unknown,35,52
+Illinois,2020-12-25,gender,Female,480551,6768151
+Illinois,2020-12-25,gender,Male,434076,5046436
+Illinois,2020-12-25,gender,Unknown/Left Blank,16222,364913
+Illinois,2020-12-25,race,AI/AN**,1113,10165
+Illinois,2020-12-25,race,Asian,18828,464171
+Illinois,2020-12-25,race,Black,84406,945057
+Illinois,2020-12-25,race,Hispanic,171948,906503
+Illinois,2020-12-25,race,Left Blank,298733,5334494
+Illinois,2020-12-25,race,NH/PI*,864,12603
+Illinois,2020-12-25,race,Other,31874,385412
+Illinois,2020-12-25,race,White,323083,4121095
 Illinois,2020-12-24,age,<20,7,12
 Illinois,2020-12-24,age,0,61,57
 Illinois,2020-12-24,age,11,25,1
@@ -41649,6 +42457,26 @@ Illinois,2020-11-02,race,Left Blank,112779,3169471
 Illinois,2020-11-02,race,NH/PI*,588,8675
 Illinois,2020-11-02,race,Other,14994,250592
 Illinois,2020-11-02,race,White,137765,2520863
+Iroquois,2020-12-25,age,<20,8,5
+Iroquois,2020-12-25,age,20-29,7,6
+Iroquois,2020-12-25,age,30-39,5,4
+Iroquois,2020-12-25,age,40-49,6,3
+Iroquois,2020-12-25,age,50-59,9,9
+Iroquois,2020-12-25,age,60-69,4,7
+Iroquois,2020-12-25,age,70-79,3,2
+Iroquois,2020-12-25,age,80+,2,8
+Iroquois,2020-12-25,age,Unknown,1,1
+Iroquois,2020-12-25,gender,Female,1191,18266
+Iroquois,2020-12-25,gender,Male,967,9861
+Iroquois,2020-12-25,gender,Unknown/Left Blank,78,450
+Iroquois,2020-12-25,race,AI/AN**,0,8
+Iroquois,2020-12-25,race,Asian,0,42
+Iroquois,2020-12-25,race,Black,16,243
+Iroquois,2020-12-25,race,Hispanic,198,880
+Iroquois,2020-12-25,race,Left Blank,319,7510
+Iroquois,2020-12-25,race,NH/PI*,0,0
+Iroquois,2020-12-25,race,Other,49,517
+Iroquois,2020-12-25,race,White,1648,19372
 Iroquois,2020-12-24,age,<20,8,5
 Iroquois,2020-12-24,age,20-29,7,6
 Iroquois,2020-12-24,age,30-39,5,4
@@ -42709,6 +43537,26 @@ Iroquois,2020-11-02,race,Left Blank,80,3584
 Iroquois,2020-11-02,race,NH/PI*,0,0
 Iroquois,2020-11-02,race,Other,11,313
 Iroquois,2020-11-02,race,White,430,10557
+Jackson,2020-12-25,age,<20,9,8
+Jackson,2020-12-25,age,20-29,2,1
+Jackson,2020-12-25,age,30-39,8,9
+Jackson,2020-12-25,age,40-49,6,7
+Jackson,2020-12-25,age,50-59,7,6
+Jackson,2020-12-25,age,60-69,5,5
+Jackson,2020-12-25,age,70-79,4,4
+Jackson,2020-12-25,age,80+,3,3
+Jackson,2020-12-25,age,Unknown,1,2
+Jackson,2020-12-25,gender,Female,1747,21705
+Jackson,2020-12-25,gender,Male,1626,15917
+Jackson,2020-12-25,gender,Unknown/Left Blank,137,5240
+Jackson,2020-12-25,race,AI/AN**,0,20
+Jackson,2020-12-25,race,Asian,22,336
+Jackson,2020-12-25,race,Black,456,4346
+Jackson,2020-12-25,race,Hispanic,210,966
+Jackson,2020-12-25,race,Left Blank,591,13564
+Jackson,2020-12-25,race,NH/PI*,0,0
+Jackson,2020-12-25,race,Other,62,827
+Jackson,2020-12-25,race,White,2169,22800
 Jackson,2020-12-24,age,<20,8,8
 Jackson,2020-12-24,age,20-29,9,1
 Jackson,2020-12-24,age,30-39,7,9
@@ -43769,6 +44617,25 @@ Jackson,2020-11-02,race,Left Blank,227,8766
 Jackson,2020-11-02,race,NH/PI*,0,0
 Jackson,2020-11-02,race,Other,27,492
 Jackson,2020-11-02,race,White,974,12245
+Jasper,2020-12-25,age,<20,5,8
+Jasper,2020-12-25,age,20-29,9,6
+Jasper,2020-12-25,age,30-39,2,5
+Jasper,2020-12-25,age,40-49,3,9
+Jasper,2020-12-25,age,50-59,6,2
+Jasper,2020-12-25,age,60-69,4,7
+Jasper,2020-12-25,age,70-79,8,4
+Jasper,2020-12-25,age,80+,7,3
+Jasper,2020-12-25,age,Unknown,1,1
+Jasper,2020-12-25,gender,Female,479,4527
+Jasper,2020-12-25,gender,Male,367,2329
+Jasper,2020-12-25,gender,Unknown/Left Blank,24,224
+Jasper,2020-12-25,race,AI/AN**,0,0
+Jasper,2020-12-25,race,Asian,0,0
+Jasper,2020-12-25,race,Black,0,13
+Jasper,2020-12-25,race,Hispanic,0,49
+Jasper,2020-12-25,race,Left Blank,265,1319
+Jasper,2020-12-25,race,Other,0,275
+Jasper,2020-12-25,race,White,594,5421
 Jasper,2020-12-24,age,<20,5,8
 Jasper,2020-12-24,age,20-29,9,6
 Jasper,2020-12-24,age,30-39,2,5
@@ -44747,6 +45614,26 @@ Jasper,2020-11-02,race,Hispanic,0,12
 Jasper,2020-11-02,race,Left Blank,66,667
 Jasper,2020-11-02,race,Other,0,261
 Jasper,2020-11-02,race,White,223,2725
+Jefferson,2020-12-25,age,<20,4,4
+Jefferson,2020-12-25,age,20-29,7,9
+Jefferson,2020-12-25,age,30-39,8,7
+Jefferson,2020-12-25,age,40-49,6,6
+Jefferson,2020-12-25,age,50-59,9,8
+Jefferson,2020-12-25,age,60-69,5,5
+Jefferson,2020-12-25,age,70-79,2,2
+Jefferson,2020-12-25,age,80+,3,3
+Jefferson,2020-12-25,age,Unknown,1,1
+Jefferson,2020-12-25,gender,Female,1504,15010
+Jefferson,2020-12-25,gender,Male,1248,8082
+Jefferson,2020-12-25,gender,Unknown/Left Blank,43,613
+Jefferson,2020-12-25,race,AI/AN**,0,9
+Jefferson,2020-12-25,race,Asian,8,68
+Jefferson,2020-12-25,race,Black,112,1133
+Jefferson,2020-12-25,race,Hispanic,65,395
+Jefferson,2020-12-25,race,Left Blank,1054,8636
+Jefferson,2020-12-25,race,NH/PI*,0,17
+Jefferson,2020-12-25,race,Other,52,431
+Jefferson,2020-12-25,race,White,1501,13016
 Jefferson,2020-12-24,age,<20,4,4
 Jefferson,2020-12-24,age,20-29,8,9
 Jefferson,2020-12-24,age,30-39,7,7
@@ -45807,6 +46694,26 @@ Jefferson,2020-11-02,race,Left Blank,334,4879
 Jefferson,2020-11-02,race,NH/PI*,0,0
 Jefferson,2020-11-02,race,Other,23,273
 Jefferson,2020-11-02,race,White,607,8097
+Jersey,2020-12-25,age,<20,6,3
+Jersey,2020-12-25,age,20-29,4,7
+Jersey,2020-12-25,age,30-39,3,6
+Jersey,2020-12-25,age,40-49,5,8
+Jersey,2020-12-25,age,50-59,8,9
+Jersey,2020-12-25,age,60-69,7,4
+Jersey,2020-12-25,age,70-79,2,2
+Jersey,2020-12-25,age,80+,1,5
+Jersey,2020-12-25,age,Unknown,9,1
+Jersey,2020-12-25,gender,Female,1034,11802
+Jersey,2020-12-25,gender,Male,817,6003
+Jersey,2020-12-25,gender,Unknown/Left Blank,12,72
+Jersey,2020-12-25,race,AI/AN**,0,0
+Jersey,2020-12-25,race,Asian,0,0
+Jersey,2020-12-25,race,Black,10,137
+Jersey,2020-12-25,race,Hispanic,0,30
+Jersey,2020-12-25,race,Left Blank,459,7723
+Jersey,2020-12-25,race,NH/PI*,0,0
+Jersey,2020-12-25,race,Other,25,306
+Jersey,2020-12-25,race,White,1364,9672
 Jersey,2020-12-24,age,<20,6,3
 Jersey,2020-12-24,age,20-29,4,7
 Jersey,2020-12-24,age,30-39,3,6
@@ -46867,6 +47774,26 @@ Jersey,2020-11-02,race,Left Blank,209,5235
 Jersey,2020-11-02,race,NH/PI*,0,0
 Jersey,2020-11-02,race,Other,18,256
 Jersey,2020-11-02,race,White,272,3219
+Jo Daviess,2020-12-25,age,<20,7,6
+Jo Daviess,2020-12-25,age,20-29,5,5
+Jo Daviess,2020-12-25,age,30-39,3,3
+Jo Daviess,2020-12-25,age,40-49,4,4
+Jo Daviess,2020-12-25,age,50-59,8,8
+Jo Daviess,2020-12-25,age,60-69,6,9
+Jo Daviess,2020-12-25,age,70-79,2,2
+Jo Daviess,2020-12-25,age,80+,9,7
+Jo Daviess,2020-12-25,age,Unknown,1,1
+Jo Daviess,2020-12-25,gender,Female,686,8978
+Jo Daviess,2020-12-25,gender,Male,629,5161
+Jo Daviess,2020-12-25,gender,Unknown/Left Blank,47,458
+Jo Daviess,2020-12-25,race,AI/AN**,0,8
+Jo Daviess,2020-12-25,race,Asian,0,18
+Jo Daviess,2020-12-25,race,Black,0,59
+Jo Daviess,2020-12-25,race,Hispanic,35,175
+Jo Daviess,2020-12-25,race,Left Blank,481,7574
+Jo Daviess,2020-12-25,race,NH/PI*,0,0
+Jo Daviess,2020-12-25,race,Other,6,115
+Jo Daviess,2020-12-25,race,White,835,6645
 Jo Daviess,2020-12-24,age,<20,7,6
 Jo Daviess,2020-12-24,age,20-29,5,5
 Jo Daviess,2020-12-24,age,30-39,3,3
@@ -47927,6 +48854,26 @@ Jo Daviess,2020-11-02,race,Left Blank,257,4692
 Jo Daviess,2020-11-02,race,NH/PI*,0,0
 Jo Daviess,2020-11-02,race,Other,0,82
 Jo Daviess,2020-11-02,race,White,334,3242
+Johnson,2020-12-25,age,<20,8,9
+Johnson,2020-12-25,age,20-29,4,3
+Johnson,2020-12-25,age,30-39,3,6
+Johnson,2020-12-25,age,40-49,2,4
+Johnson,2020-12-25,age,50-59,4,5
+Johnson,2020-12-25,age,60-69,7,2
+Johnson,2020-12-25,age,70-79,6,7
+Johnson,2020-12-25,age,80+,5,8
+Johnson,2020-12-25,age,Unknown,1,1
+Johnson,2020-12-25,gender,Female,365,4416
+Johnson,2020-12-25,gender,Male,544,3234
+Johnson,2020-12-25,gender,Unknown/Left Blank,40,626
+Johnson,2020-12-25,race,AI/AN**,0,0
+Johnson,2020-12-25,race,Asian,0,46
+Johnson,2020-12-25,race,Black,96,287
+Johnson,2020-12-25,race,Hispanic,57,182
+Johnson,2020-12-25,race,Left Blank,186,3062
+Johnson,2020-12-25,race,NH/PI*,0,0
+Johnson,2020-12-25,race,Other,0,70
+Johnson,2020-12-25,race,White,600,4625
 Johnson,2020-12-24,age,<20,9,9
 Johnson,2020-12-24,age,20-29,4,3
 Johnson,2020-12-24,age,30-39,3,6
@@ -48949,6 +49896,26 @@ Johnson,2020-11-02,race,Left Blank,77,1444
 Johnson,2020-11-02,race,NH/PI*,0,0
 Johnson,2020-11-02,race,Other,0,55
 Johnson,2020-11-02,race,White,270,2615
+Kane,2020-12-25,age,<20,7,5
+Kane,2020-12-25,age,20-29,9,9
+Kane,2020-12-25,age,30-39,6,7
+Kane,2020-12-25,age,40-49,8,6
+Kane,2020-12-25,age,50-59,5,8
+Kane,2020-12-25,age,60-69,4,4
+Kane,2020-12-25,age,70-79,2,3
+Kane,2020-12-25,age,80+,1,2
+Kane,2020-12-25,age,Unknown,3,1
+Kane,2020-12-25,gender,Female,20562,217000
+Kane,2020-12-25,gender,Male,19217,164854
+Kane,2020-12-25,gender,Unknown/Left Blank,417,12297
+Kane,2020-12-25,race,AI/AN**,27,192
+Kane,2020-12-25,race,Asian,824,7891
+Kane,2020-12-25,race,Black,1301,13245
+Kane,2020-12-25,race,Hispanic,12554,50567
+Kane,2020-12-25,race,Left Blank,13546,197224
+Kane,2020-12-25,race,NH/PI*,24,245
+Kane,2020-12-25,race,Other,968,9458
+Kane,2020-12-25,race,White,10947,115329
 Kane,2020-12-24,age,<20,7,5
 Kane,2020-12-24,age,20-29,9,9
 Kane,2020-12-24,age,30-39,6,7
@@ -50009,6 +50976,26 @@ Kane,2020-11-02,race,Left Blank,5335,120619
 Kane,2020-11-02,race,NH/PI*,15,146
 Kane,2020-11-02,race,Other,397,5638
 Kane,2020-11-02,race,White,5188,73531
+Kankakee,2020-12-25,age,<20,3,2
+Kankakee,2020-12-25,age,20-29,7,7
+Kankakee,2020-12-25,age,30-39,4,5
+Kankakee,2020-12-25,age,40-49,5,6
+Kankakee,2020-12-25,age,50-59,6,8
+Kankakee,2020-12-25,age,60-69,2,4
+Kankakee,2020-12-25,age,70-79,9,3
+Kankakee,2020-12-25,age,80+,8,1
+Kankakee,2020-12-25,age,Unknown,1,9
+Kankakee,2020-12-25,gender,Female,5628,77314
+Kankakee,2020-12-25,gender,Male,4783,52128
+Kankakee,2020-12-25,gender,Unknown/Left Blank,34,2842
+Kankakee,2020-12-25,race,AI/AN**,0,52
+Kankakee,2020-12-25,race,Asian,34,678
+Kankakee,2020-12-25,race,Black,1335,20605
+Kankakee,2020-12-25,race,Hispanic,1026,4913
+Kankakee,2020-12-25,race,Left Blank,2440,32144
+Kankakee,2020-12-25,race,NH/PI*,0,104
+Kankakee,2020-12-25,race,Other,281,3948
+Kankakee,2020-12-25,race,White,5320,69840
 Kankakee,2020-12-24,age,<20,3,2
 Kankakee,2020-12-24,age,20-29,7,7
 Kankakee,2020-12-24,age,30-39,4,5
@@ -51069,6 +52056,26 @@ Kankakee,2020-11-02,race,Left Blank,763,15457
 Kankakee,2020-11-02,race,NH/PI*,0,45
 Kankakee,2020-11-02,race,Other,104,2414
 Kankakee,2020-11-02,race,White,1830,40299
+Kendall,2020-12-25,age,<20,3,2
+Kendall,2020-12-25,age,20-29,4,3
+Kendall,2020-12-25,age,30-39,5,5
+Kendall,2020-12-25,age,40-49,6,4
+Kendall,2020-12-25,age,50-59,2,1
+Kendall,2020-12-25,age,60-69,9,9
+Kendall,2020-12-25,age,70-79,8,8
+Kendall,2020-12-25,age,80+,7,7
+Kendall,2020-12-25,age,Unknown,1,6
+Kendall,2020-12-25,gender,Female,4328,45307
+Kendall,2020-12-25,gender,Male,3793,32466
+Kendall,2020-12-25,gender,Unknown/Left Blank,22,1196
+Kendall,2020-12-25,race,AI/AN**,8,57
+Kendall,2020-12-25,race,Asian,121,1312
+Kendall,2020-12-25,race,Black,485,4047
+Kendall,2020-12-25,race,Hispanic,1859,8814
+Kendall,2020-12-25,race,Left Blank,2406,32595
+Kendall,2020-12-25,race,NH/PI*,0,42
+Kendall,2020-12-25,race,Other,212,2527
+Kendall,2020-12-25,race,White,3049,29575
 Kendall,2020-12-24,age,<20,3,2
 Kendall,2020-12-24,age,20-29,4,3
 Kendall,2020-12-24,age,30-39,5,5
@@ -52129,6 +53136,26 @@ Kendall,2020-11-02,race,Left Blank,688,18931
 Kendall,2020-11-02,race,NH/PI*,0,16
 Kendall,2020-11-02,race,Other,74,1547
 Kendall,2020-11-02,race,White,1204,18622
+Knox,2020-12-25,age,<20,4,5
+Knox,2020-12-25,age,20-29,8,9
+Knox,2020-12-25,age,30-39,5,7
+Knox,2020-12-25,age,40-49,6,6
+Knox,2020-12-25,age,50-59,7,8
+Knox,2020-12-25,age,60-69,4,4
+Knox,2020-12-25,age,70-79,3,3
+Knox,2020-12-25,age,80+,2,2
+Knox,2020-12-25,age,Unknown,1,1
+Knox,2020-12-25,gender,Female,2001,25268
+Knox,2020-12-25,gender,Male,1628,16160
+Knox,2020-12-25,gender,Unknown/Left Blank,242,3753
+Knox,2020-12-25,race,AI/AN**,0,16
+Knox,2020-12-25,race,Asian,0,350
+Knox,2020-12-25,race,Black,254,1582
+Knox,2020-12-25,race,Hispanic,119,796
+Knox,2020-12-25,race,Left Blank,1607,26549
+Knox,2020-12-25,race,NH/PI*,0,29
+Knox,2020-12-25,race,Other,40,582
+Knox,2020-12-25,race,White,1843,15277
 Knox,2020-12-24,age,<20,5,5
 Knox,2020-12-24,age,20-29,9,9
 Knox,2020-12-24,age,30-39,6,7
@@ -53189,6 +54216,26 @@ Knox,2020-11-02,race,Left Blank,605,14330
 Knox,2020-11-02,race,NH/PI*,0,22
 Knox,2020-11-02,race,Other,22,423
 Knox,2020-11-02,race,White,683,9298
+Lake,2020-12-25,age,<20,8,4
+Lake,2020-12-25,age,20-29,9,9
+Lake,2020-12-25,age,30-39,5,6
+Lake,2020-12-25,age,40-49,7,7
+Lake,2020-12-25,age,50-59,6,8
+Lake,2020-12-25,age,60-69,4,5
+Lake,2020-12-25,age,70-79,3,2
+Lake,2020-12-25,age,80+,2,3
+Lake,2020-12-25,age,Unknown,1,1
+Lake,2020-12-25,gender,Female,23573,315434
+Lake,2020-12-25,gender,Male,22677,239469
+Lake,2020-12-25,gender,Unknown/Left Blank,583,13889
+Lake,2020-12-25,race,AI/AN**,58,497
+Lake,2020-12-25,race,Asian,1130,17286
+Lake,2020-12-25,race,Black,2504,23647
+Lake,2020-12-25,race,Hispanic,14467,70594
+Lake,2020-12-25,race,Left Blank,12358,249150
+Lake,2020-12-25,race,NH/PI*,86,1655
+Lake,2020-12-25,race,Other,2101,20445
+Lake,2020-12-25,race,White,14126,185518
 Lake,2020-12-24,age,<20,8,4
 Lake,2020-12-24,age,20-29,9,9
 Lake,2020-12-24,age,30-39,5,6
@@ -54249,6 +55296,26 @@ Lake,2020-11-02,race,Left Blank,3689,136831
 Lake,2020-11-02,race,NH/PI*,70,1352
 Lake,2020-11-02,race,Other,978,12450
 Lake,2020-11-02,race,White,7051,121875
+LaSalle,2020-12-25,age,<20,8,9
+LaSalle,2020-12-25,age,20-29,5,7
+LaSalle,2020-12-25,age,30-39,3,6
+LaSalle,2020-12-25,age,40-49,2,4
+LaSalle,2020-12-25,age,50-59,4,5
+LaSalle,2020-12-25,age,60-69,9,1
+LaSalle,2020-12-25,age,70-79,6,8
+LaSalle,2020-12-25,age,80+,7,2
+LaSalle,2020-12-25,age,Unknown,1,3
+LaSalle,2020-12-25,gender,Female,4232,48868
+LaSalle,2020-12-25,gender,Male,3648,31699
+LaSalle,2020-12-25,gender,Unknown/Left Blank,179,6636
+LaSalle,2020-12-25,race,AI/AN**,0,41
+LaSalle,2020-12-25,race,Asian,18,312
+LaSalle,2020-12-25,race,Black,98,950
+LaSalle,2020-12-25,race,Hispanic,609,3223
+LaSalle,2020-12-25,race,Left Blank,2188,33370
+LaSalle,2020-12-25,race,NH/PI*,0,106
+LaSalle,2020-12-25,race,Other,358,2296
+LaSalle,2020-12-25,race,White,4773,46905
 LaSalle,2020-12-24,age,<20,8,9
 LaSalle,2020-12-24,age,20-29,5,7
 LaSalle,2020-12-24,age,30-39,3,6
@@ -55309,6 +56376,26 @@ LaSalle,2020-11-02,race,Left Blank,606,14542
 LaSalle,2020-11-02,race,NH/PI*,0,61
 LaSalle,2020-11-02,race,Other,126,1135
 LaSalle,2020-11-02,race,White,1788,24575
+Lawrence,2020-12-25,age,<20,3,4
+Lawrence,2020-12-25,age,20-29,7,8
+Lawrence,2020-12-25,age,30-39,8,7
+Lawrence,2020-12-25,age,40-49,6,6
+Lawrence,2020-12-25,age,50-59,5,5
+Lawrence,2020-12-25,age,60-69,4,3
+Lawrence,2020-12-25,age,70-79,2,1
+Lawrence,2020-12-25,age,80+,9,2
+Lawrence,2020-12-25,age,Unknown,1,9
+Lawrence,2020-12-25,gender,Female,635,7047
+Lawrence,2020-12-25,gender,Male,997,6310
+Lawrence,2020-12-25,gender,Unknown/Left Blank,219,2892
+Lawrence,2020-12-25,race,AI/AN**,0,0
+Lawrence,2020-12-25,race,Asian,0,10
+Lawrence,2020-12-25,race,Black,340,1527
+Lawrence,2020-12-25,race,Hispanic,14,91
+Lawrence,2020-12-25,race,Left Blank,599,8756
+Lawrence,2020-12-25,race,NH/PI*,0,0
+Lawrence,2020-12-25,race,Other,6,59
+Lawrence,2020-12-25,race,White,890,5803
 Lawrence,2020-12-24,age,<20,3,4
 Lawrence,2020-12-24,age,20-29,7,9
 Lawrence,2020-12-24,age,30-39,8,8
@@ -56335,6 +57422,26 @@ Lawrence,2020-11-02,race,Hispanic,0,33
 Lawrence,2020-11-02,race,Left Blank,99,3997
 Lawrence,2020-11-02,race,Other,0,45
 Lawrence,2020-11-02,race,White,272,2722
+Lee,2020-12-25,age,<20,4,3
+Lee,2020-12-25,age,20-29,9,6
+Lee,2020-12-25,age,30-39,6,7
+Lee,2020-12-25,age,40-49,7,8
+Lee,2020-12-25,age,50-59,8,5
+Lee,2020-12-25,age,60-69,5,4
+Lee,2020-12-25,age,70-79,3,1
+Lee,2020-12-25,age,80+,2,2
+Lee,2020-12-25,age,Unknown,1,9
+Lee,2020-12-25,gender,Female,1156,11199
+Lee,2020-12-25,gender,Male,1382,10269
+Lee,2020-12-25,gender,Unknown/Left Blank,89,7552
+Lee,2020-12-25,race,AI/AN**,0,0
+Lee,2020-12-25,race,Asian,10,87
+Lee,2020-12-25,race,Black,107,851
+Lee,2020-12-25,race,Hispanic,56,375
+Lee,2020-12-25,race,Left Blank,859,14906
+Lee,2020-12-25,race,NH/PI*,0,0
+Lee,2020-12-25,race,Other,68,396
+Lee,2020-12-25,race,White,1524,12398
 Lee,2020-12-24,age,<20,4,3
 Lee,2020-12-24,age,20-29,9,6
 Lee,2020-12-24,age,30-39,6,7
@@ -57395,6 +58502,26 @@ Lee,2020-11-02,race,Left Blank,289,4708
 Lee,2020-11-02,race,NH/PI*,0,0
 Lee,2020-11-02,race,Other,25,191
 Lee,2020-11-02,race,White,582,6553
+Livingston,2020-12-25,age,<20,5,3
+Livingston,2020-12-25,age,20-29,7,6
+Livingston,2020-12-25,age,30-39,9,9
+Livingston,2020-12-25,age,40-49,8,5
+Livingston,2020-12-25,age,50-59,6,8
+Livingston,2020-12-25,age,60-69,4,4
+Livingston,2020-12-25,age,70-79,2,2
+Livingston,2020-12-25,age,80+,3,7
+Livingston,2020-12-25,age,Unknown,1,1
+Livingston,2020-12-25,gender,Female,1523,25541
+Livingston,2020-12-25,gender,Male,1452,13630
+Livingston,2020-12-25,gender,Unknown/Left Blank,55,3648
+Livingston,2020-12-25,race,AI/AN**,0,8
+Livingston,2020-12-25,race,Asian,0,50
+Livingston,2020-12-25,race,Black,67,577
+Livingston,2020-12-25,race,Hispanic,75,548
+Livingston,2020-12-25,race,Left Blank,843,22141
+Livingston,2020-12-25,race,NH/PI*,0,7
+Livingston,2020-12-25,race,Other,72,716
+Livingston,2020-12-25,race,White,1969,18772
 Livingston,2020-12-24,age,<20,5,3
 Livingston,2020-12-24,age,20-29,7,6
 Livingston,2020-12-24,age,30-39,9,8
@@ -58455,6 +59582,26 @@ Livingston,2020-11-02,race,Left Blank,218,11516
 Livingston,2020-11-02,race,NH/PI*,0,0
 Livingston,2020-11-02,race,Other,16,356
 Livingston,2020-11-02,race,White,490,7353
+Logan,2020-12-25,age,<20,4,4
+Logan,2020-12-25,age,20-29,8,8
+Logan,2020-12-25,age,30-39,9,9
+Logan,2020-12-25,age,40-49,7,6
+Logan,2020-12-25,age,50-59,6,7
+Logan,2020-12-25,age,60-69,5,5
+Logan,2020-12-25,age,70-79,3,2
+Logan,2020-12-25,age,80+,2,3
+Logan,2020-12-25,age,Unknown,1,1
+Logan,2020-12-25,gender,Female,1357,22790
+Logan,2020-12-25,gender,Male,1091,11710
+Logan,2020-12-25,gender,Unknown/Left Blank,161,6780
+Logan,2020-12-25,race,AI/AN**,0,8
+Logan,2020-12-25,race,Asian,0,40
+Logan,2020-12-25,race,Black,306,917
+Logan,2020-12-25,race,Hispanic,77,253
+Logan,2020-12-25,race,Left Blank,467,25398
+Logan,2020-12-25,race,NH/PI*,0,13
+Logan,2020-12-25,race,Other,18,422
+Logan,2020-12-25,race,White,1729,14229
 Logan,2020-12-24,age,<20,4,4
 Logan,2020-12-24,age,20-29,8,8
 Logan,2020-12-24,age,30-39,9,9
@@ -59515,6 +60662,26 @@ Logan,2020-11-02,race,Left Blank,69,10557
 Logan,2020-11-02,race,NH/PI*,0,0
 Logan,2020-11-02,race,Other,0,278
 Logan,2020-11-02,race,White,513,8265
+Macon,2020-12-25,age,<20,3,2
+Macon,2020-12-25,age,20-29,7,7
+Macon,2020-12-25,age,30-39,5,6
+Macon,2020-12-25,age,40-49,4,3
+Macon,2020-12-25,age,50-59,6,5
+Macon,2020-12-25,age,60-69,2,4
+Macon,2020-12-25,age,70-79,9,9
+Macon,2020-12-25,age,80+,8,1
+Macon,2020-12-25,age,Unknown,1,8
+Macon,2020-12-25,gender,Female,4319,59902
+Macon,2020-12-25,gender,Male,3330,33294
+Macon,2020-12-25,gender,Unknown/Left Blank,118,4298
+Macon,2020-12-25,race,AI/AN**,0,25
+Macon,2020-12-25,race,Asian,39,268
+Macon,2020-12-25,race,Black,1179,7443
+Macon,2020-12-25,race,Hispanic,73,486
+Macon,2020-12-25,race,Left Blank,2657,57629
+Macon,2020-12-25,race,NH/PI*,0,55
+Macon,2020-12-25,race,Other,103,1234
+Macon,2020-12-25,race,White,3705,30354
 Macon,2020-12-24,age,<20,3,2
 Macon,2020-12-24,age,20-29,7,6
 Macon,2020-12-24,age,30-39,5,5
@@ -60575,6 +61742,26 @@ Macon,2020-11-02,race,Left Blank,927,33511
 Macon,2020-11-02,race,NH/PI*,0,39
 Macon,2020-11-02,race,Other,58,773
 Macon,2020-11-02,race,White,1895,18417
+Macoupin,2020-12-25,age,<20,8,4
+Macoupin,2020-12-25,age,20-29,5,7
+Macoupin,2020-12-25,age,30-39,6,8
+Macoupin,2020-12-25,age,40-49,9,6
+Macoupin,2020-12-25,age,50-59,7,9
+Macoupin,2020-12-25,age,60-69,4,5
+Macoupin,2020-12-25,age,70-79,3,2
+Macoupin,2020-12-25,age,80+,2,3
+Macoupin,2020-12-25,age,Unknown,1,1
+Macoupin,2020-12-25,gender,Female,1664,27483
+Macoupin,2020-12-25,gender,Male,1370,14804
+Macoupin,2020-12-25,gender,Unknown/Left Blank,80,948
+Macoupin,2020-12-25,race,AI/AN**,0,13
+Macoupin,2020-12-25,race,Asian,0,73
+Macoupin,2020-12-25,race,Black,30,390
+Macoupin,2020-12-25,race,Hispanic,10,136
+Macoupin,2020-12-25,race,Left Blank,1016,10412
+Macoupin,2020-12-25,race,NH/PI*,0,17
+Macoupin,2020-12-25,race,Other,45,546
+Macoupin,2020-12-25,race,White,2000,31648
 Macoupin,2020-12-24,age,<20,8,4
 Macoupin,2020-12-24,age,20-29,5,7
 Macoupin,2020-12-24,age,30-39,6,8
@@ -61635,6 +62822,26 @@ Macoupin,2020-11-02,race,Left Blank,253,5769
 Macoupin,2020-11-02,race,NH/PI*,0,0
 Macoupin,2020-11-02,race,Other,23,359
 Macoupin,2020-11-02,race,White,587,17121
+Madison,2020-12-25,age,<20,5,3
+Madison,2020-12-25,age,20-29,9,9
+Madison,2020-12-25,age,30-39,8,8
+Madison,2020-12-25,age,40-49,6,6
+Madison,2020-12-25,age,50-59,7,7
+Madison,2020-12-25,age,60-69,4,5
+Madison,2020-12-25,age,70-79,3,1
+Madison,2020-12-25,age,80+,2,2
+Madison,2020-12-25,age,Unknown,1,4
+Madison,2020-12-25,gender,Female,10778,112462
+Madison,2020-12-25,gender,Male,8766,69323
+Madison,2020-12-25,gender,Unknown/Left Blank,637,4131
+Madison,2020-12-25,race,AI/AN**,14,101
+Madison,2020-12-25,race,Asian,60,531
+Madison,2020-12-25,race,Black,1265,8163
+Madison,2020-12-25,race,Hispanic,380,1771
+Madison,2020-12-25,race,Left Blank,7382,91547
+Madison,2020-12-25,race,NH/PI*,0,69
+Madison,2020-12-25,race,Other,823,8204
+Madison,2020-12-25,race,White,10249,75530
 Madison,2020-12-24,age,<20,5,3
 Madison,2020-12-24,age,20-29,9,9
 Madison,2020-12-24,age,30-39,8,8
@@ -62695,6 +63902,26 @@ Madison,2020-11-02,race,Left Blank,2497,51931
 Madison,2020-11-02,race,NH/PI*,0,44
 Madison,2020-11-02,race,Other,580,6900
 Madison,2020-11-02,race,White,3780,40217
+Marion,2020-12-25,age,<20,4,3
+Marion,2020-12-25,age,20-29,6,9
+Marion,2020-12-25,age,30-39,5,7
+Marion,2020-12-25,age,40-49,8,5
+Marion,2020-12-25,age,50-59,9,8
+Marion,2020-12-25,age,60-69,7,6
+Marion,2020-12-25,age,70-79,3,2
+Marion,2020-12-25,age,80+,2,4
+Marion,2020-12-25,age,Unknown,1,1
+Marion,2020-12-25,gender,Female,1934,23668
+Marion,2020-12-25,gender,Male,1472,12129
+Marion,2020-12-25,gender,Unknown/Left Blank,19,1748
+Marion,2020-12-25,race,AI/AN**,6,23
+Marion,2020-12-25,race,Asian,0,42
+Marion,2020-12-25,race,Black,95,1314
+Marion,2020-12-25,race,Hispanic,36,166
+Marion,2020-12-25,race,Left Blank,720,16032
+Marion,2020-12-25,race,NH/PI*,0,13
+Marion,2020-12-25,race,Other,38,604
+Marion,2020-12-25,race,White,2526,19351
 Marion,2020-12-24,age,<20,4,3
 Marion,2020-12-24,age,20-29,6,9
 Marion,2020-12-24,age,30-39,5,7
@@ -63755,6 +64982,26 @@ Marion,2020-11-02,race,Left Blank,172,8454
 Marion,2020-11-02,race,NH/PI*,0,7
 Marion,2020-11-02,race,Other,15,415
 Marion,2020-11-02,race,White,990,10822
+Marshall,2020-12-25,age,<20,7,2
+Marshall,2020-12-25,age,20-29,8,6
+Marshall,2020-12-25,age,30-39,5,3
+Marshall,2020-12-25,age,40-49,2,4
+Marshall,2020-12-25,age,50-59,8,7
+Marshall,2020-12-25,age,60-69,6,5
+Marshall,2020-12-25,age,70-79,4,9
+Marshall,2020-12-25,age,80+,3,1
+Marshall,2020-12-25,age,Unknown,1,8
+Marshall,2020-12-25,gender,Female,292,6904
+Marshall,2020-12-25,gender,Male,262,3837
+Marshall,2020-12-25,gender,Unknown/Left Blank,0,290
+Marshall,2020-12-25,race,AI/AN**,0,0
+Marshall,2020-12-25,race,Asian,0,13
+Marshall,2020-12-25,race,Black,0,28
+Marshall,2020-12-25,race,Hispanic,0,59
+Marshall,2020-12-25,race,Left Blank,220,5905
+Marshall,2020-12-25,race,NH/PI*,0,0
+Marshall,2020-12-25,race,Other,6,136
+Marshall,2020-12-25,race,White,320,4888
 Marshall,2020-12-24,age,<20,6,2
 Marshall,2020-12-24,age,20-29,7,5
 Marshall,2020-12-24,age,30-39,5,3
@@ -64759,6 +66006,25 @@ Marshall,2020-11-02,race,Hispanic,0,26
 Marshall,2020-11-02,race,Left Blank,88,3837
 Marshall,2020-11-02,race,Other,0,41
 Marshall,2020-11-02,race,White,84,2199
+Mason,2020-12-25,age,<20,6,7
+Mason,2020-12-25,age,20-29,8,3
+Mason,2020-12-25,age,30-39,4,5
+Mason,2020-12-25,age,40-49,2,6
+Mason,2020-12-25,age,50-59,5,4
+Mason,2020-12-25,age,60-69,3,2
+Mason,2020-12-25,age,70-79,9,8
+Mason,2020-12-25,age,80+,7,9
+Mason,2020-12-25,age,Unknown,1,1
+Mason,2020-12-25,gender,Female,556,7739
+Mason,2020-12-25,gender,Male,379,4318
+Mason,2020-12-25,gender,Unknown/Left Blank,32,577
+Mason,2020-12-25,race,AI/AN**,0,0
+Mason,2020-12-25,race,Asian,0,10
+Mason,2020-12-25,race,Black,0,29
+Mason,2020-12-25,race,Hispanic,6,24
+Mason,2020-12-25,race,Left Blank,381,5162
+Mason,2020-12-25,race,Other,8,97
+Mason,2020-12-25,race,White,569,7309
 Mason,2020-12-24,age,<20,6,7
 Mason,2020-12-24,age,20-29,8,3
 Mason,2020-12-24,age,30-39,4,6
@@ -65766,6 +67032,25 @@ Mason,2020-11-02,race,Hispanic,0,20
 Mason,2020-11-02,race,Left Blank,158,2678
 Mason,2020-11-02,race,Other,0,64
 Mason,2020-11-02,race,White,205,3838
+Massac,2020-12-25,age,<20,2,6
+Massac,2020-12-25,age,20-29,2,7
+Massac,2020-12-25,age,30-39,7,3
+Massac,2020-12-25,age,40-49,2,8
+Massac,2020-12-25,age,50-59,4,2
+Massac,2020-12-25,age,60-69,3,9
+Massac,2020-12-25,age,70-79,5,4
+Massac,2020-12-25,age,80+,6,5
+Massac,2020-12-25,age,Unknown,1,1
+Massac,2020-12-25,gender,Female,457,4228
+Massac,2020-12-25,gender,Male,378,2616
+Massac,2020-12-25,gender,Unknown/Left Blank,19,111
+Massac,2020-12-25,race,AI/AN**,0,0
+Massac,2020-12-25,race,Asian,0,9
+Massac,2020-12-25,race,Black,18,162
+Massac,2020-12-25,race,Hispanic,0,29
+Massac,2020-12-25,race,Left Blank,447,4054
+Massac,2020-12-25,race,Other,0,36
+Massac,2020-12-25,race,White,382,2662
 Massac,2020-12-24,age,<20,3,6
 Massac,2020-12-24,age,20-29,2,7
 Massac,2020-12-24,age,30-39,8,3
@@ -66773,6 +68058,26 @@ Massac,2020-11-02,race,Hispanic,0,19
 Massac,2020-11-02,race,Left Blank,56,1830
 Massac,2020-11-02,race,Other,0,23
 Massac,2020-11-02,race,White,111,1601
+McDonough,2020-12-25,age,<20,8,7
+McDonough,2020-12-25,age,20-29,9,9
+McDonough,2020-12-25,age,30-39,7,8
+McDonough,2020-12-25,age,40-49,6,3
+McDonough,2020-12-25,age,50-59,4,6
+McDonough,2020-12-25,age,60-69,5,5
+McDonough,2020-12-25,age,70-79,3,2
+McDonough,2020-12-25,age,80+,2,4
+McDonough,2020-12-25,age,Unknown,1,1
+McDonough,2020-12-25,gender,Female,1033,16217
+McDonough,2020-12-25,gender,Male,876,8887
+McDonough,2020-12-25,gender,Unknown/Left Blank,30,661
+McDonough,2020-12-25,race,AI/AN**,0,9
+McDonough,2020-12-25,race,Asian,31,138
+McDonough,2020-12-25,race,Black,146,837
+McDonough,2020-12-25,race,Hispanic,89,258
+McDonough,2020-12-25,race,Left Blank,260,9526
+McDonough,2020-12-25,race,NH/PI*,0,20
+McDonough,2020-12-25,race,Other,19,211
+McDonough,2020-12-25,race,White,1384,14766
 McDonough,2020-12-24,age,<20,8,7
 McDonough,2020-12-24,age,20-29,9,9
 McDonough,2020-12-24,age,30-39,7,8
@@ -67833,6 +69138,26 @@ McDonough,2020-11-02,race,Left Blank,86,4897
 McDonough,2020-11-02,race,NH/PI*,0,16
 McDonough,2020-11-02,race,Other,8,131
 McDonough,2020-11-02,race,White,586,8413
+McHenry,2020-12-25,age,<20,3,4
+McHenry,2020-12-25,age,20-29,7,8
+McHenry,2020-12-25,age,30-39,4,7
+McHenry,2020-12-25,age,40-49,5,6
+McHenry,2020-12-25,age,50-59,6,9
+McHenry,2020-12-25,age,60-69,2,5
+McHenry,2020-12-25,age,70-79,9,2
+McHenry,2020-12-25,age,80+,8,1
+McHenry,2020-12-25,age,Unknown,1,3
+McHenry,2020-12-25,gender,Female,9456,107970
+McHenry,2020-12-25,gender,Male,8810,78426
+McHenry,2020-12-25,gender,Unknown/Left Blank,136,2266
+McHenry,2020-12-25,race,AI/AN**,21,227
+McHenry,2020-12-25,race,Asian,264,2433
+McHenry,2020-12-25,race,Black,177,1854
+McHenry,2020-12-25,race,Hispanic,2897,13191
+McHenry,2020-12-25,race,Left Blank,6298,82315
+McHenry,2020-12-25,race,NH/PI*,18,113
+McHenry,2020-12-25,race,Other,352,2648
+McHenry,2020-12-25,race,White,8373,85881
 McHenry,2020-12-24,age,<20,3,4
 McHenry,2020-12-24,age,20-29,7,8
 McHenry,2020-12-24,age,30-39,4,7
@@ -68893,6 +70218,26 @@ McHenry,2020-11-02,race,Left Blank,1425,43434
 McHenry,2020-11-02,race,NH/PI*,13,72
 McHenry,2020-11-02,race,Other,155,1558
 McHenry,2020-11-02,race,White,3914,54036
+McLean,2020-12-25,age,<20,5,7
+McLean,2020-12-25,age,20-29,6,8
+McLean,2020-12-25,age,30-39,4,6
+McLean,2020-12-25,age,40-49,3,3
+McLean,2020-12-25,age,50-59,2,4
+McLean,2020-12-25,age,60-69,9,2
+McLean,2020-12-25,age,70-79,8,9
+McLean,2020-12-25,age,80+,7,1
+McLean,2020-12-25,age,Unknown,1,5
+McLean,2020-12-25,gender,Female,5867,95814
+McLean,2020-12-25,gender,Male,4967,67346
+McLean,2020-12-25,gender,Unknown/Left Blank,306,18084
+McLean,2020-12-25,race,AI/AN**,0,80
+McLean,2020-12-25,race,Asian,98,845
+McLean,2020-12-25,race,Black,614,4704
+McLean,2020-12-25,race,Hispanic,418,1408
+McLean,2020-12-25,race,Left Blank,5140,131046
+McLean,2020-12-25,race,NH/PI*,0,36
+McLean,2020-12-25,race,Other,128,1679
+McLean,2020-12-25,race,White,4731,41446
 McLean,2020-12-24,age,<20,5,6
 McLean,2020-12-24,age,20-29,6,7
 McLean,2020-12-24,age,30-39,4,5
@@ -69953,6 +71298,26 @@ McLean,2020-11-02,race,Left Blank,2136,83991
 McLean,2020-11-02,race,NH/PI*,0,16
 McLean,2020-11-02,race,Other,48,888
 McLean,2020-11-02,race,White,1761,18152
+Menard,2020-12-25,age,<20,7,6
+Menard,2020-12-25,age,20-29,9,5
+Menard,2020-12-25,age,30-39,2,7
+Menard,2020-12-25,age,40-49,8,4
+Menard,2020-12-25,age,50-59,3,8
+Menard,2020-12-25,age,60-69,6,3
+Menard,2020-12-25,age,70-79,4,2
+Menard,2020-12-25,age,80+,5,9
+Menard,2020-12-25,age,Unknown,1,1
+Menard,2020-12-25,gender,Female,334,6817
+Menard,2020-12-25,gender,Male,282,4312
+Menard,2020-12-25,gender,Unknown/Left Blank,86,439
+Menard,2020-12-25,race,AI/AN**,0,7
+Menard,2020-12-25,race,Asian,0,0
+Menard,2020-12-25,race,Black,0,53
+Menard,2020-12-25,race,Hispanic,0,55
+Menard,2020-12-25,race,Left Blank,387,5190
+Menard,2020-12-25,race,NH/PI*,0,0
+Menard,2020-12-25,race,Other,0,99
+Menard,2020-12-25,race,White,306,6157
 Menard,2020-12-24,age,<20,7,6
 Menard,2020-12-24,age,20-29,9,5
 Menard,2020-12-24,age,30-39,2,7
@@ -71013,6 +72378,25 @@ Menard,2020-11-02,race,Left Blank,75,2827
 Menard,2020-11-02,race,NH/PI*,0,0
 Menard,2020-11-02,race,Other,0,60
 Menard,2020-11-02,race,White,115,3418
+Mercer,2020-12-25,age,<20,5,9
+Mercer,2020-12-25,age,20-29,2,3
+Mercer,2020-12-25,age,30-39,3,4
+Mercer,2020-12-25,age,40-49,6,6
+Mercer,2020-12-25,age,50-59,7,8
+Mercer,2020-12-25,age,60-69,4,7
+Mercer,2020-12-25,age,70-79,8,1
+Mercer,2020-12-25,age,80+,9,5
+Mercer,2020-12-25,age,Unknown,1,2
+Mercer,2020-12-25,gender,Female,558,6817
+Mercer,2020-12-25,gender,Male,471,4486
+Mercer,2020-12-25,gender,Unknown/Left Blank,8,182
+Mercer,2020-12-25,race,Asian,0,0
+Mercer,2020-12-25,race,Black,0,13
+Mercer,2020-12-25,race,Hispanic,9,53
+Mercer,2020-12-25,race,Left Blank,581,5873
+Mercer,2020-12-25,race,NH/PI*,0,0
+Mercer,2020-12-25,race,Other,0,131
+Mercer,2020-12-25,race,White,446,5410
 Mercer,2020-12-24,age,<20,5,9
 Mercer,2020-12-24,age,20-29,2,4
 Mercer,2020-12-24,age,30-39,3,3
@@ -72020,6 +73404,26 @@ Mercer,2020-11-02,race,Left Blank,175,3283
 Mercer,2020-11-02,race,NH/PI*,0,0
 Mercer,2020-11-02,race,Other,0,103
 Mercer,2020-11-02,race,White,164,3490
+Monroe,2020-12-25,age,<20,7,7
+Monroe,2020-12-25,age,20-29,5,4
+Monroe,2020-12-25,age,30-39,6,6
+Monroe,2020-12-25,age,40-49,8,3
+Monroe,2020-12-25,age,50-59,9,9
+Monroe,2020-12-25,age,60-69,4,5
+Monroe,2020-12-25,age,70-79,2,1
+Monroe,2020-12-25,age,80+,3,8
+Monroe,2020-12-25,age,Unknown,1,2
+Monroe,2020-12-25,gender,Female,1579,15532
+Monroe,2020-12-25,gender,Male,1342,8332
+Monroe,2020-12-25,gender,Unknown/Left Blank,33,122
+Monroe,2020-12-25,race,AI/AN**,0,0
+Monroe,2020-12-25,race,Asian,0,38
+Monroe,2020-12-25,race,Black,7,362
+Monroe,2020-12-25,race,Hispanic,21,169
+Monroe,2020-12-25,race,Left Blank,1601,11234
+Monroe,2020-12-25,race,NH/PI*,0,0
+Monroe,2020-12-25,race,Other,18,187
+Monroe,2020-12-25,race,White,1304,11992
 Monroe,2020-12-24,age,<20,7,7
 Monroe,2020-12-24,age,20-29,5,4
 Monroe,2020-12-24,age,30-39,6,6
@@ -73072,6 +74476,26 @@ Monroe,2020-11-02,race,Left Blank,493,4862
 Monroe,2020-11-02,race,NH/PI*,0,0
 Monroe,2020-11-02,race,Other,7,139
 Monroe,2020-11-02,race,White,568,6742
+Montgomery,2020-12-25,age,<20,3,3
+Montgomery,2020-12-25,age,20-29,5,7
+Montgomery,2020-12-25,age,30-39,8,6
+Montgomery,2020-12-25,age,40-49,7,4
+Montgomery,2020-12-25,age,50-59,6,9
+Montgomery,2020-12-25,age,60-69,4,8
+Montgomery,2020-12-25,age,70-79,2,2
+Montgomery,2020-12-25,age,80+,9,5
+Montgomery,2020-12-25,age,Unknown,1,1
+Montgomery,2020-12-25,gender,Female,817,18797
+Montgomery,2020-12-25,gender,Male,947,11471
+Montgomery,2020-12-25,gender,Unknown/Left Blank,53,889
+Montgomery,2020-12-25,race,AI/AN**,0,0
+Montgomery,2020-12-25,race,Asian,0,40
+Montgomery,2020-12-25,race,Black,61,537
+Montgomery,2020-12-25,race,Hispanic,8,89
+Montgomery,2020-12-25,race,Left Blank,915,17718
+Montgomery,2020-12-25,race,NH/PI*,0,13
+Montgomery,2020-12-25,race,Other,14,195
+Montgomery,2020-12-25,race,White,814,12565
 Montgomery,2020-12-24,age,<20,3,3
 Montgomery,2020-12-24,age,20-29,4,7
 Montgomery,2020-12-24,age,30-39,8,6
@@ -74132,6 +75556,26 @@ Montgomery,2020-11-02,race,Left Blank,350,10382
 Montgomery,2020-11-02,race,NH/PI*,0,10
 Montgomery,2020-11-02,race,Other,6,145
 Montgomery,2020-11-02,race,White,322,7554
+Morgan,2020-12-25,age,<20,4,3
+Morgan,2020-12-25,age,20-29,9,9
+Morgan,2020-12-25,age,30-39,6,7
+Morgan,2020-12-25,age,40-49,7,5
+Morgan,2020-12-25,age,50-59,8,8
+Morgan,2020-12-25,age,60-69,5,6
+Morgan,2020-12-25,age,70-79,3,2
+Morgan,2020-12-25,age,80+,2,4
+Morgan,2020-12-25,age,Unknown,1,1
+Morgan,2020-12-25,gender,Female,1198,19302
+Morgan,2020-12-25,gender,Male,1424,11692
+Morgan,2020-12-25,gender,Unknown/Left Blank,310,1445
+Morgan,2020-12-25,race,AI/AN**,0,11
+Morgan,2020-12-25,race,Asian,9,85
+Morgan,2020-12-25,race,Black,300,1157
+Morgan,2020-12-25,race,Hispanic,54,212
+Morgan,2020-12-25,race,Left Blank,1415,16708
+Morgan,2020-12-25,race,NH/PI*,0,16
+Morgan,2020-12-25,race,Other,21,312
+Morgan,2020-12-25,race,White,1127,13938
 Morgan,2020-12-24,age,<20,4,3
 Morgan,2020-12-24,age,20-29,9,9
 Morgan,2020-12-24,age,30-39,6,7
@@ -75192,6 +76636,25 @@ Morgan,2020-11-02,race,Left Blank,394,8929
 Morgan,2020-11-02,race,NH/PI*,0,8
 Morgan,2020-11-02,race,Other,7,208
 Morgan,2020-11-02,race,White,417,7198
+Moultrie,2020-12-25,age,<20,6,8
+Moultrie,2020-12-25,age,20-29,5,6
+Moultrie,2020-12-25,age,30-39,3,4
+Moultrie,2020-12-25,age,40-49,4,5
+Moultrie,2020-12-25,age,50-59,8,7
+Moultrie,2020-12-25,age,60-69,7,3
+Moultrie,2020-12-25,age,70-79,1,1
+Moultrie,2020-12-25,age,80+,2,2
+Moultrie,2020-12-25,gender,Female,651,9206
+Moultrie,2020-12-25,gender,Male,540,4550
+Moultrie,2020-12-25,gender,Unknown/Left Blank,27,398
+Moultrie,2020-12-25,race,AI/AN**,0,0
+Moultrie,2020-12-25,race,Asian,0,33
+Moultrie,2020-12-25,race,Black,12,134
+Moultrie,2020-12-25,race,Hispanic,9,51
+Moultrie,2020-12-25,race,Left Blank,335,4426
+Moultrie,2020-12-25,race,NH/PI*,0,12
+Moultrie,2020-12-25,race,Other,12,323
+Moultrie,2020-12-25,race,White,850,9174
 Moultrie,2020-12-24,age,<20,6,8
 Moultrie,2020-12-24,age,20-29,5,6
 Moultrie,2020-12-24,age,30-39,3,4
@@ -76199,6 +77662,26 @@ Moultrie,2020-11-02,race,Left Blank,116,2279
 Moultrie,2020-11-02,race,NH/PI*,0,0
 Moultrie,2020-11-02,race,Other,7,290
 Moultrie,2020-11-02,race,White,375,4977
+Ogle,2020-12-25,age,<20,5,7
+Ogle,2020-12-25,age,20-29,9,9
+Ogle,2020-12-25,age,30-39,7,6
+Ogle,2020-12-25,age,40-49,6,5
+Ogle,2020-12-25,age,50-59,8,8
+Ogle,2020-12-25,age,60-69,3,4
+Ogle,2020-12-25,age,70-79,2,2
+Ogle,2020-12-25,age,80+,1,3
+Ogle,2020-12-25,age,Unknown,4,1
+Ogle,2020-12-25,gender,Female,2077,21995
+Ogle,2020-12-25,gender,Male,1761,12349
+Ogle,2020-12-25,gender,Unknown/Left Blank,65,2614
+Ogle,2020-12-25,race,AI/AN**,0,38
+Ogle,2020-12-25,race,Asian,0,43
+Ogle,2020-12-25,race,Black,22,305
+Ogle,2020-12-25,race,Hispanic,333,1069
+Ogle,2020-12-25,race,Left Blank,1645,17868
+Ogle,2020-12-25,race,NH/PI*,0,0
+Ogle,2020-12-25,race,Other,61,440
+Ogle,2020-12-25,race,White,1833,17192
 Ogle,2020-12-24,age,<20,5,7
 Ogle,2020-12-24,age,20-29,9,9
 Ogle,2020-12-24,age,30-39,7,6
@@ -77259,6 +78742,26 @@ Ogle,2020-11-02,race,Left Blank,608,11858
 Ogle,2020-11-02,race,NH/PI*,0,0
 Ogle,2020-11-02,race,Other,23,263
 Ogle,2020-11-02,race,White,635,8500
+Peoria,2020-12-25,age,<20,6,6
+Peoria,2020-12-25,age,20-29,7,9
+Peoria,2020-12-25,age,30-39,5,7
+Peoria,2020-12-25,age,40-49,3,4
+Peoria,2020-12-25,age,50-59,4,5
+Peoria,2020-12-25,age,60-69,2,3
+Peoria,2020-12-25,age,70-79,9,2
+Peoria,2020-12-25,age,80+,8,1
+Peoria,2020-12-25,age,Unknown,1,8
+Peoria,2020-12-25,gender,Female,6819,106030
+Peoria,2020-12-25,gender,Male,5657,73951
+Peoria,2020-12-25,gender,Unknown/Left Blank,195,8498
+Peoria,2020-12-25,race,AI/AN**,12,88
+Peoria,2020-12-25,race,Asian,139,1047
+Peoria,2020-12-25,race,Black,2005,11865
+Peoria,2020-12-25,race,Hispanic,837,1838
+Peoria,2020-12-25,race,Left Blank,2102,123399
+Peoria,2020-12-25,race,NH/PI*,8,67
+Peoria,2020-12-25,race,Other,324,4460
+Peoria,2020-12-25,race,White,7245,45715
 Peoria,2020-12-24,age,<20,6,6
 Peoria,2020-12-24,age,20-29,7,9
 Peoria,2020-12-24,age,30-39,5,7
@@ -78319,6 +79822,26 @@ Peoria,2020-11-02,race,Left Blank,791,80816
 Peoria,2020-11-02,race,NH/PI*,0,37
 Peoria,2020-11-02,race,Other,172,2723
 Peoria,2020-11-02,race,White,2766,24526
+Perry,2020-12-25,age,<20,4,4
+Perry,2020-12-25,age,20-29,9,9
+Perry,2020-12-25,age,30-39,8,8
+Perry,2020-12-25,age,40-49,7,7
+Perry,2020-12-25,age,50-59,6,6
+Perry,2020-12-25,age,60-69,5,5
+Perry,2020-12-25,age,70-79,2,1
+Perry,2020-12-25,age,80+,3,3
+Perry,2020-12-25,age,Unknown,1,2
+Perry,2020-12-25,gender,Female,920,9164
+Perry,2020-12-25,gender,Male,754,5323
+Perry,2020-12-25,gender,Unknown/Left Blank,263,1873
+Perry,2020-12-25,race,AI/AN**,0,0
+Perry,2020-12-25,race,Asian,6,26
+Perry,2020-12-25,race,Black,59,367
+Perry,2020-12-25,race,Hispanic,18,103
+Perry,2020-12-25,race,Left Blank,582,6865
+Perry,2020-12-25,race,NH/PI*,0,0
+Perry,2020-12-25,race,Other,12,140
+Perry,2020-12-25,race,White,1252,8853
 Perry,2020-12-24,age,<20,4,4
 Perry,2020-12-24,age,20-29,9,9
 Perry,2020-12-24,age,30-39,8,8
@@ -79379,6 +80902,26 @@ Perry,2020-11-02,race,Left Blank,98,2742
 Perry,2020-11-02,race,NH/PI*,0,0
 Perry,2020-11-02,race,Other,0,83
 Perry,2020-11-02,race,White,389,4985
+Piatt,2020-12-25,age,<20,7,9
+Piatt,2020-12-25,age,20-29,3,7
+Piatt,2020-12-25,age,30-39,6,8
+Piatt,2020-12-25,age,40-49,5,6
+Piatt,2020-12-25,age,50-59,4,5
+Piatt,2020-12-25,age,60-69,2,4
+Piatt,2020-12-25,age,70-79,9,2
+Piatt,2020-12-25,age,80+,8,3
+Piatt,2020-12-25,age,Unknown,1,1
+Piatt,2020-12-25,gender,Female,533,11654
+Piatt,2020-12-25,gender,Male,469,7694
+Piatt,2020-12-25,gender,Unknown/Left Blank,0,157
+Piatt,2020-12-25,race,AI/AN**,0,35
+Piatt,2020-12-25,race,Asian,0,97
+Piatt,2020-12-25,race,Black,6,128
+Piatt,2020-12-25,race,Hispanic,6,145
+Piatt,2020-12-25,race,Left Blank,205,5299
+Piatt,2020-12-25,race,NH/PI*,0,6
+Piatt,2020-12-25,race,Other,20,482
+Piatt,2020-12-25,race,White,762,13313
 Piatt,2020-12-24,age,<20,7,9
 Piatt,2020-12-24,age,20-29,3,7
 Piatt,2020-12-24,age,30-39,5,8
@@ -80439,6 +81982,26 @@ Piatt,2020-11-02,race,Left Blank,36,2682
 Piatt,2020-11-02,race,NH/PI*,0,0
 Piatt,2020-11-02,race,Other,6,351
 Piatt,2020-11-02,race,White,244,8353
+Pike,2020-12-25,age,<20,3,2
+Pike,2020-12-25,age,20-29,8,8
+Pike,2020-12-25,age,30-39,6,5
+Pike,2020-12-25,age,40-49,5,4
+Pike,2020-12-25,age,50-59,7,7
+Pike,2020-12-25,age,60-69,4,3
+Pike,2020-12-25,age,70-79,9,9
+Pike,2020-12-25,age,80+,2,6
+Pike,2020-12-25,age,Unknown,1,1
+Pike,2020-12-25,gender,Female,753,7369
+Pike,2020-12-25,gender,Male,522,3401
+Pike,2020-12-25,gender,Unknown/Left Blank,46,422
+Pike,2020-12-25,race,AI/AN**,0,0
+Pike,2020-12-25,race,Asian,0,7
+Pike,2020-12-25,race,Black,0,20
+Pike,2020-12-25,race,Hispanic,9,42
+Pike,2020-12-25,race,Left Blank,500,7403
+Pike,2020-12-25,race,NH/PI*,0,0
+Pike,2020-12-25,race,Other,0,14
+Pike,2020-12-25,race,White,807,3704
 Pike,2020-12-24,age,<20,3,2
 Pike,2020-12-24,age,20-29,8,8
 Pike,2020-12-24,age,30-39,6,5
@@ -81499,6 +83062,23 @@ Pike,2020-11-02,race,Left Blank,179,3911
 Pike,2020-11-02,race,NH/PI*,0,0
 Pike,2020-11-02,race,Other,0,12
 Pike,2020-11-02,race,White,276,2097
+Pope,2020-12-25,age,<20,1,4
+Pope,2020-12-25,age,20-29,3,2
+Pope,2020-12-25,age,30-39,5,3
+Pope,2020-12-25,age,40-49,7,5
+Pope,2020-12-25,age,50-59,6,6
+Pope,2020-12-25,age,60-69,8,7
+Pope,2020-12-25,age,70-79,4,1
+Pope,2020-12-25,age,80+,2,8
+Pope,2020-12-25,gender,Female,99,977
+Pope,2020-12-25,gender,Male,76,649
+Pope,2020-12-25,gender,Unknown/Left Blank,0,39
+Pope,2020-12-25,race,Black,0,15
+Pope,2020-12-25,race,Hispanic,0,0
+Pope,2020-12-25,race,Left Blank,75,781
+Pope,2020-12-25,race,NH/PI*,0,0
+Pope,2020-12-25,race,Other,0,16
+Pope,2020-12-25,race,White,98,852
 Pope,2020-12-24,age,<20,1,4
 Pope,2020-12-24,age,20-29,2,2
 Pope,2020-12-24,age,30-39,4,3
@@ -82360,6 +83940,24 @@ Pope,2020-11-02,race,Hispanic,0,0
 Pope,2020-11-02,race,Left Blank,11,369
 Pope,2020-11-02,race,Other,0,11
 Pope,2020-11-02,race,White,33,479
+Pulaski,2020-12-25,age,<20,5,2
+Pulaski,2020-12-25,age,20-29,7,5
+Pulaski,2020-12-25,age,30-39,6,7
+Pulaski,2020-12-25,age,40-49,1,6
+Pulaski,2020-12-25,age,50-59,4,4
+Pulaski,2020-12-25,age,60-69,4,3
+Pulaski,2020-12-25,age,70-79,3,1
+Pulaski,2020-12-25,age,80+,2,8
+Pulaski,2020-12-25,gender,Female,243,1799
+Pulaski,2020-12-25,gender,Male,274,1674
+Pulaski,2020-12-25,gender,Unknown/Left Blank,30,250
+Pulaski,2020-12-25,race,Asian,0,7
+Pulaski,2020-12-25,race,Black,71,650
+Pulaski,2020-12-25,race,Hispanic,93,397
+Pulaski,2020-12-25,race,Left Blank,141,1204
+Pulaski,2020-12-25,race,NH/PI*,0,0
+Pulaski,2020-12-25,race,Other,0,44
+Pulaski,2020-12-25,race,White,235,1421
 Pulaski,2020-12-24,age,<20,5,2
 Pulaski,2020-12-24,age,20-29,7,5
 Pulaski,2020-12-24,age,30-39,6,7
@@ -83304,6 +84902,25 @@ Pulaski,2020-11-02,race,Hispanic,71,255
 Pulaski,2020-11-02,race,Left Blank,65,860
 Pulaski,2020-11-02,race,Other,0,22
 Pulaski,2020-11-02,race,White,77,706
+Putnam,2020-12-25,age,<20,4,3
+Putnam,2020-12-25,age,20-29,7,4
+Putnam,2020-12-25,age,30-39,8,7
+Putnam,2020-12-25,age,40-49,5,6
+Putnam,2020-12-25,age,50-59,9,8
+Putnam,2020-12-25,age,60-69,6,5
+Putnam,2020-12-25,age,70-79,3,2
+Putnam,2020-12-25,age,80+,2,9
+Putnam,2020-12-25,age,Unknown,1,1
+Putnam,2020-12-25,gender,Female,176,2132
+Putnam,2020-12-25,gender,Male,126,1003
+Putnam,2020-12-25,gender,Unknown/Left Blank,6,186
+Putnam,2020-12-25,race,Asian,0,0
+Putnam,2020-12-25,race,Black,0,14
+Putnam,2020-12-25,race,Hispanic,7,71
+Putnam,2020-12-25,race,Left Blank,133,1548
+Putnam,2020-12-25,race,NH/PI*,0,26
+Putnam,2020-12-25,race,Other,0,24
+Putnam,2020-12-25,race,White,164,1635
 Putnam,2020-12-24,age,<20,4,3
 Putnam,2020-12-24,age,20-29,7,4
 Putnam,2020-12-24,age,30-39,8,7
@@ -84311,6 +85928,26 @@ Putnam,2020-11-02,race,Left Blank,39,764
 Putnam,2020-11-02,race,NH/PI*,0,15
 Putnam,2020-11-02,race,Other,0,11
 Putnam,2020-11-02,race,White,63,868
+Randolph,2020-12-25,age,<20,6,4
+Randolph,2020-12-25,age,20-29,9,9
+Randolph,2020-12-25,age,30-39,8,8
+Randolph,2020-12-25,age,40-49,7,7
+Randolph,2020-12-25,age,50-59,5,6
+Randolph,2020-12-25,age,60-69,4,3
+Randolph,2020-12-25,age,70-79,2,1
+Randolph,2020-12-25,age,80+,3,5
+Randolph,2020-12-25,age,Unknown,1,2
+Randolph,2020-12-25,gender,Female,1613,18441
+Randolph,2020-12-25,gender,Male,1482,10752
+Randolph,2020-12-25,gender,Unknown/Left Blank,78,1101
+Randolph,2020-12-25,race,AI/AN**,0,0
+Randolph,2020-12-25,race,Asian,0,22
+Randolph,2020-12-25,race,Black,168,1086
+Randolph,2020-12-25,race,Hispanic,124,281
+Randolph,2020-12-25,race,Left Blank,1124,12544
+Randolph,2020-12-25,race,NH/PI*,0,0
+Randolph,2020-12-25,race,Other,11,225
+Randolph,2020-12-25,race,White,1740,16132
 Randolph,2020-12-24,age,<20,6,4
 Randolph,2020-12-24,age,20-29,9,9
 Randolph,2020-12-24,age,30-39,8,8
@@ -85371,6 +87008,26 @@ Randolph,2020-11-02,race,Left Blank,426,7397
 Randolph,2020-11-02,race,NH/PI*,0,0
 Randolph,2020-11-02,race,Other,6,143
 Randolph,2020-11-02,race,White,754,8627
+Richland,2020-12-25,age,<20,4,9
+Richland,2020-12-25,age,20-29,4,6
+Richland,2020-12-25,age,30-39,6,8
+Richland,2020-12-25,age,40-49,7,5
+Richland,2020-12-25,age,50-59,6,7
+Richland,2020-12-25,age,60-69,5,4
+Richland,2020-12-25,age,70-79,2,2
+Richland,2020-12-25,age,80+,3,3
+Richland,2020-12-25,age,Unknown,1,1
+Richland,2020-12-25,gender,Female,731,9416
+Richland,2020-12-25,gender,Male,490,5215
+Richland,2020-12-25,gender,Unknown/Left Blank,16,517
+Richland,2020-12-25,race,AI/AN**,0,0
+Richland,2020-12-25,race,Asian,0,47
+Richland,2020-12-25,race,Black,10,106
+Richland,2020-12-25,race,Hispanic,8,75
+Richland,2020-12-25,race,Left Blank,150,3456
+Richland,2020-12-25,race,NH/PI*,0,24
+Richland,2020-12-25,race,Other,7,133
+Richland,2020-12-25,race,White,1060,11306
 Richland,2020-12-24,age,<20,5,9
 Richland,2020-12-24,age,20-29,4,6
 Richland,2020-12-24,age,30-39,7,8
@@ -86386,6 +88043,26 @@ Richland,2020-11-02,race,Left Blank,25,1595
 Richland,2020-11-02,race,NH/PI*,0,11
 Richland,2020-11-02,race,Other,0,93
 Richland,2020-11-02,race,White,318,6478
+Rock Island,2020-12-25,age,<20,3,3
+Rock Island,2020-12-25,age,20-29,7,8
+Rock Island,2020-12-25,age,30-39,6,7
+Rock Island,2020-12-25,age,40-49,5,4
+Rock Island,2020-12-25,age,50-59,4,6
+Rock Island,2020-12-25,age,60-69,2,5
+Rock Island,2020-12-25,age,70-79,9,1
+Rock Island,2020-12-25,age,80+,8,2
+Rock Island,2020-12-25,age,Unknown,1,9
+Rock Island,2020-12-25,gender,Female,5671,70066
+Rock Island,2020-12-25,gender,Male,4982,44978
+Rock Island,2020-12-25,gender,Unknown/Left Blank,68,1907
+Rock Island,2020-12-25,race,AI/AN**,6,44
+Rock Island,2020-12-25,race,Asian,91,595
+Rock Island,2020-12-25,race,Black,685,6228
+Rock Island,2020-12-25,race,Hispanic,825,4422
+Rock Island,2020-12-25,race,Left Blank,5858,66817
+Rock Island,2020-12-25,race,NH/PI*,0,49
+Rock Island,2020-12-25,race,Other,229,2095
+Rock Island,2020-12-25,race,White,3016,36701
 Rock Island,2020-12-24,age,<20,3,3
 Rock Island,2020-12-24,age,20-29,7,8
 Rock Island,2020-12-24,age,30-39,6,7
@@ -87446,6 +89123,26 @@ Rock Island,2020-11-02,race,Left Blank,2209,43926
 Rock Island,2020-11-02,race,NH/PI*,0,20
 Rock Island,2020-11-02,race,Other,85,1437
 Rock Island,2020-11-02,race,White,1308,25273
+Saline,2020-12-25,age,<20,7,5
+Saline,2020-12-25,age,20-29,9,8
+Saline,2020-12-25,age,30-39,8,7
+Saline,2020-12-25,age,40-49,4,4
+Saline,2020-12-25,age,50-59,6,9
+Saline,2020-12-25,age,60-69,5,6
+Saline,2020-12-25,age,70-79,3,2
+Saline,2020-12-25,age,80+,2,3
+Saline,2020-12-25,age,Unknown,1,1
+Saline,2020-12-25,gender,Female,903,11004
+Saline,2020-12-25,gender,Male,728,6487
+Saline,2020-12-25,gender,Unknown/Left Blank,32,819
+Saline,2020-12-25,race,AI/AN**,0,0
+Saline,2020-12-25,race,Asian,0,29
+Saline,2020-12-25,race,Black,61,564
+Saline,2020-12-25,race,Hispanic,8,78
+Saline,2020-12-25,race,Left Blank,514,8618
+Saline,2020-12-25,race,NH/PI*,0,0
+Saline,2020-12-25,race,Other,11,129
+Saline,2020-12-25,race,White,1071,8887
 Saline,2020-12-24,age,<20,7,5
 Saline,2020-12-24,age,20-29,9,8
 Saline,2020-12-24,age,30-39,8,7
@@ -88506,6 +90203,26 @@ Saline,2020-11-02,race,Left Blank,185,3574
 Saline,2020-11-02,race,NH/PI*,0,0
 Saline,2020-11-02,race,Other,0,79
 Saline,2020-11-02,race,White,431,4867
+Sangamon,2020-12-25,age,<20,4,3
+Sangamon,2020-12-25,age,20-29,7,8
+Sangamon,2020-12-25,age,30-39,5,6
+Sangamon,2020-12-25,age,40-49,3,5
+Sangamon,2020-12-25,age,50-59,6,7
+Sangamon,2020-12-25,age,60-69,2,4
+Sangamon,2020-12-25,age,70-79,9,2
+Sangamon,2020-12-25,age,80+,8,1
+Sangamon,2020-12-25,age,Unknown,1,9
+Sangamon,2020-12-25,gender,Female,6583,134733
+Sangamon,2020-12-25,gender,Male,5375,90332
+Sangamon,2020-12-25,gender,Unknown/Left Blank,924,5105
+Sangamon,2020-12-25,race,AI/AN**,0,184
+Sangamon,2020-12-25,race,Asian,79,2143
+Sangamon,2020-12-25,race,Black,1374,16238
+Sangamon,2020-12-25,race,Hispanic,139,1681
+Sangamon,2020-12-25,race,Left Blank,6175,107370
+Sangamon,2020-12-25,race,NH/PI*,24,1836
+Sangamon,2020-12-25,race,Other,139,4522
+Sangamon,2020-12-25,race,White,4943,96196
 Sangamon,2020-12-24,age,<20,4,3
 Sangamon,2020-12-24,age,20-29,7,8
 Sangamon,2020-12-24,age,30-39,5,6
@@ -89566,6 +91283,24 @@ Sangamon,2020-11-02,race,Left Blank,1589,65749
 Sangamon,2020-11-02,race,NH/PI*,15,1195
 Sangamon,2020-11-02,race,Other,40,2804
 Sangamon,2020-11-02,race,White,2305,60580
+Schuyler,2020-12-25,age,<20,4,5
+Schuyler,2020-12-25,age,20-29,3,7
+Schuyler,2020-12-25,age,30-39,6,8
+Schuyler,2020-12-25,age,40-49,7,1
+Schuyler,2020-12-25,age,50-59,1,3
+Schuyler,2020-12-25,age,60-69,8,2
+Schuyler,2020-12-25,age,70-79,5,6
+Schuyler,2020-12-25,age,80+,2,4
+Schuyler,2020-12-25,gender,Female,268,2827
+Schuyler,2020-12-25,gender,Male,219,3864
+Schuyler,2020-12-25,gender,Unknown/Left Blank,40,157
+Schuyler,2020-12-25,race,AI/AN**,0,10
+Schuyler,2020-12-25,race,Asian,0,0
+Schuyler,2020-12-25,race,Black,17,205
+Schuyler,2020-12-25,race,Hispanic,0,55
+Schuyler,2020-12-25,race,Left Blank,128,1545
+Schuyler,2020-12-25,race,Other,0,61
+Schuyler,2020-12-25,race,White,372,4970
 Schuyler,2020-12-24,age,<20,4,5
 Schuyler,2020-12-24,age,20-29,3,7
 Schuyler,2020-12-24,age,30-39,6,8
@@ -90484,6 +92219,23 @@ Schuyler,2020-11-02,race,Hispanic,0,42
 Schuyler,2020-11-02,race,Left Blank,15,771
 Schuyler,2020-11-02,race,Other,0,46
 Schuyler,2020-11-02,race,White,78,1371
+Scott,2020-12-25,age,<20,3,5
+Scott,2020-12-25,age,20-29,6,4
+Scott,2020-12-25,age,30-39,4,7
+Scott,2020-12-25,age,40-49,5,3
+Scott,2020-12-25,age,50-59,7,8
+Scott,2020-12-25,age,60-69,3,6
+Scott,2020-12-25,age,70-79,1,1
+Scott,2020-12-25,age,80+,2,2
+Scott,2020-12-25,gender,Female,140,3320
+Scott,2020-12-25,gender,Male,110,1414
+Scott,2020-12-25,gender,Unknown/Left Blank,55,426
+Scott,2020-12-25,race,Asian,0,0
+Scott,2020-12-25,race,Black,0,13
+Scott,2020-12-25,race,Hispanic,0,13
+Scott,2020-12-25,race,Left Blank,140,1679
+Scott,2020-12-25,race,Other,0,20
+Scott,2020-12-25,race,White,166,3430
 Scott,2020-12-24,age,<20,3,5
 Scott,2020-12-24,age,20-29,6,4
 Scott,2020-12-24,age,30-39,4,7
@@ -91385,6 +93137,26 @@ Scott,2020-11-02,race,Hispanic,0,0
 Scott,2020-11-02,race,Left Blank,83,1245
 Scott,2020-11-02,race,Other,0,16
 Scott,2020-11-02,race,White,34,1682
+Shelby,2020-12-25,age,<20,6,6
+Shelby,2020-12-25,age,20-29,8,8
+Shelby,2020-12-25,age,30-39,5,5
+Shelby,2020-12-25,age,40-49,4,3
+Shelby,2020-12-25,age,50-59,8,7
+Shelby,2020-12-25,age,60-69,7,4
+Shelby,2020-12-25,age,70-79,3,1
+Shelby,2020-12-25,age,80+,2,2
+Shelby,2020-12-25,age,Unknown,1,9
+Shelby,2020-12-25,gender,Female,1001,9668
+Shelby,2020-12-25,gender,Male,704,5166
+Shelby,2020-12-25,gender,Unknown/Left Blank,38,381
+Shelby,2020-12-25,race,AI/AN**,0,0
+Shelby,2020-12-25,race,Asian,0,27
+Shelby,2020-12-25,race,Black,7,37
+Shelby,2020-12-25,race,Hispanic,11,51
+Shelby,2020-12-25,race,Left Blank,208,4969
+Shelby,2020-12-25,race,NH/PI*,0,0
+Shelby,2020-12-25,race,Other,8,483
+Shelby,2020-12-25,race,White,1504,9639
 Shelby,2020-12-24,age,<20,6,6
 Shelby,2020-12-24,age,20-29,8,8
 Shelby,2020-12-24,age,30-39,5,5
@@ -92445,6 +94217,26 @@ Shelby,2020-11-02,race,Left Blank,89,2518
 Shelby,2020-11-02,race,NH/PI*,0,0
 Shelby,2020-11-02,race,Other,6,449
 Shelby,2020-11-02,race,White,664,6198
+St. Clair,2020-12-25,age,<20,4,3
+St. Clair,2020-12-25,age,20-29,8,5
+St. Clair,2020-12-25,age,30-39,7,7
+St. Clair,2020-12-25,age,40-49,6,6
+St. Clair,2020-12-25,age,50-59,5,8
+St. Clair,2020-12-25,age,60-69,3,4
+St. Clair,2020-12-25,age,70-79,1,2
+St. Clair,2020-12-25,age,80+,9,1
+St. Clair,2020-12-25,age,Unknown,2,9
+St. Clair,2020-12-25,gender,Female,9798,114432
+St. Clair,2020-12-25,gender,Male,7648,73231
+St. Clair,2020-12-25,gender,Unknown/Left Blank,742,3053
+St. Clair,2020-12-25,race,AI/AN**,17,101
+St. Clair,2020-12-25,race,Asian,65,538
+St. Clair,2020-12-25,race,Black,4107,25115
+St. Clair,2020-12-25,race,Hispanic,532,2195
+St. Clair,2020-12-25,race,Left Blank,8521,109516
+St. Clair,2020-12-25,race,NH/PI*,17,128
+St. Clair,2020-12-25,race,Other,376,4927
+St. Clair,2020-12-25,race,White,4546,48196
 St. Clair,2020-12-24,age,<20,4,3
 St. Clair,2020-12-24,age,20-29,8,5
 St. Clair,2020-12-24,age,30-39,7,7
@@ -93505,6 +95297,25 @@ St. Clair,2020-11-02,race,Left Blank,3322,65387
 St. Clair,2020-11-02,race,NH/PI*,10,72
 St. Clair,2020-11-02,race,Other,267,3979
 St. Clair,2020-11-02,race,White,1969,26033
+Stark,2020-12-25,age,<20,8,9
+Stark,2020-12-25,age,20-29,7,8
+Stark,2020-12-25,age,30-39,5,4
+Stark,2020-12-25,age,40-49,6,1
+Stark,2020-12-25,age,50-59,9,6
+Stark,2020-12-25,age,60-69,4,7
+Stark,2020-12-25,age,70-79,2,3
+Stark,2020-12-25,age,80+,3,2
+Stark,2020-12-25,age,Unknown,1,5
+Stark,2020-12-25,gender,Female,236,3523
+Stark,2020-12-25,gender,Male,179,1910
+Stark,2020-12-25,gender,Unknown/Left Blank,7,158
+Stark,2020-12-25,race,AI/AN**,0,0
+Stark,2020-12-25,race,Asian,0,0
+Stark,2020-12-25,race,Black,0,26
+Stark,2020-12-25,race,Hispanic,0,28
+Stark,2020-12-25,race,Left Blank,231,3455
+Stark,2020-12-25,race,Other,0,43
+Stark,2020-12-25,race,White,184,2033
 Stark,2020-12-24,age,<20,7,9
 Stark,2020-12-24,age,20-29,7,8
 Stark,2020-12-24,age,30-39,5,4
@@ -94472,6 +96283,26 @@ Stark,2020-11-02,race,Hispanic,0,14
 Stark,2020-11-02,race,Left Blank,65,2072
 Stark,2020-11-02,race,Other,0,27
 Stark,2020-11-02,race,White,35,861
+Stephenson,2020-12-25,age,<20,7,5
+Stephenson,2020-12-25,age,20-29,6,8
+Stephenson,2020-12-25,age,30-39,8,7
+Stephenson,2020-12-25,age,40-49,4,3
+Stephenson,2020-12-25,age,50-59,9,9
+Stephenson,2020-12-25,age,60-69,5,6
+Stephenson,2020-12-25,age,70-79,3,2
+Stephenson,2020-12-25,age,80+,2,4
+Stephenson,2020-12-25,age,Unknown,1,1
+Stephenson,2020-12-25,gender,Female,1708,20709
+Stephenson,2020-12-25,gender,Male,1394,11320
+Stephenson,2020-12-25,gender,Unknown/Left Blank,35,855
+Stephenson,2020-12-25,race,AI/AN**,0,14
+Stephenson,2020-12-25,race,Asian,16,93
+Stephenson,2020-12-25,race,Black,178,1388
+Stephenson,2020-12-25,race,Hispanic,121,496
+Stephenson,2020-12-25,race,Left Blank,717,14142
+Stephenson,2020-12-25,race,NH/PI*,0,11
+Stephenson,2020-12-25,race,Other,36,376
+Stephenson,2020-12-25,race,White,2057,16364
 Stephenson,2020-12-24,age,<20,7,5
 Stephenson,2020-12-24,age,20-29,6,8
 Stephenson,2020-12-24,age,30-39,8,7
@@ -95532,6 +97363,26 @@ Stephenson,2020-11-02,race,Left Blank,333,8933
 Stephenson,2020-11-02,race,NH/PI*,0,0
 Stephenson,2020-11-02,race,Other,9,210
 Stephenson,2020-11-02,race,White,820,8583
+Tazewell,2020-12-25,age,<20,7,9
+Tazewell,2020-12-25,age,20-29,3,7
+Tazewell,2020-12-25,age,30-39,5,8
+Tazewell,2020-12-25,age,40-49,6,6
+Tazewell,2020-12-25,age,50-59,4,5
+Tazewell,2020-12-25,age,60-69,2,4
+Tazewell,2020-12-25,age,70-79,9,1
+Tazewell,2020-12-25,age,80+,8,3
+Tazewell,2020-12-25,age,Unknown,1,2
+Tazewell,2020-12-25,gender,Female,5312,78505
+Tazewell,2020-12-25,gender,Male,4357,49095
+Tazewell,2020-12-25,gender,Unknown/Left Blank,211,5376
+Tazewell,2020-12-25,race,AI/AN**,0,41
+Tazewell,2020-12-25,race,Asian,40,274
+Tazewell,2020-12-25,race,Black,66,743
+Tazewell,2020-12-25,race,Hispanic,65,443
+Tazewell,2020-12-25,race,Left Blank,4598,81620
+Tazewell,2020-12-25,race,NH/PI*,0,15
+Tazewell,2020-12-25,race,Other,132,1562
+Tazewell,2020-12-25,race,White,4977,48278
 Tazewell,2020-12-24,age,<20,7,9
 Tazewell,2020-12-24,age,20-29,3,7
 Tazewell,2020-12-24,age,30-39,6,8
@@ -96592,6 +98443,26 @@ Tazewell,2020-11-02,race,Left Blank,1670,52429
 Tazewell,2020-11-02,race,NH/PI*,0,9
 Tazewell,2020-11-02,race,Other,32,628
 Tazewell,2020-11-02,race,White,1339,25349
+Union,2020-12-25,age,<20,3,3
+Union,2020-12-25,age,20-29,7,6
+Union,2020-12-25,age,30-39,5,7
+Union,2020-12-25,age,40-49,5,8
+Union,2020-12-25,age,50-59,6,9
+Union,2020-12-25,age,60-69,4,5
+Union,2020-12-25,age,70-79,2,2
+Union,2020-12-25,age,80+,8,4
+Union,2020-12-25,age,Unknown,1,1
+Union,2020-12-25,gender,Female,771,10047
+Union,2020-12-25,gender,Male,743,7942
+Union,2020-12-25,gender,Unknown/Left Blank,76,827
+Union,2020-12-25,race,AI/AN**,0,0
+Union,2020-12-25,race,Asian,0,42
+Union,2020-12-25,race,Black,56,578
+Union,2020-12-25,race,Hispanic,71,394
+Union,2020-12-25,race,Left Blank,235,4912
+Union,2020-12-25,race,NH/PI*,0,21
+Union,2020-12-25,race,Other,9,126
+Union,2020-12-25,race,White,1210,12741
 Union,2020-12-24,age,<20,3,3
 Union,2020-12-24,age,20-29,8,6
 Union,2020-12-24,age,30-39,6,7
@@ -97642,6 +99513,26 @@ Union,2020-11-02,race,Left Blank,133,2455
 Union,2020-11-02,race,NH/PI*,0,8
 Union,2020-11-02,race,Other,0,73
 Union,2020-11-02,race,White,594,6321
+Vermilion,2020-12-25,age,<20,7,1
+Vermilion,2020-12-25,age,20-29,9,2
+Vermilion,2020-12-25,age,30-39,8,3
+Vermilion,2020-12-25,age,40-49,6,8
+Vermilion,2020-12-25,age,50-59,5,9
+Vermilion,2020-12-25,age,60-69,4,7
+Vermilion,2020-12-25,age,70-79,3,6
+Vermilion,2020-12-25,age,80+,2,5
+Vermilion,2020-12-25,age,Unknown,1,4
+Vermilion,2020-12-25,gender,Female,2936,39210
+Vermilion,2020-12-25,gender,Male,2672,28112
+Vermilion,2020-12-25,gender,Unknown/Left Blank,448,4469
+Vermilion,2020-12-25,race,AI/AN**,0,41
+Vermilion,2020-12-25,race,Asian,23,240
+Vermilion,2020-12-25,race,Black,687,6352
+Vermilion,2020-12-25,race,Hispanic,255,1704
+Vermilion,2020-12-25,race,Left Blank,1071,16901
+Vermilion,2020-12-25,race,NH/PI*,0,51
+Vermilion,2020-12-25,race,Other,270,2142
+Vermilion,2020-12-25,race,White,3744,44360
 Vermilion,2020-12-24,age,<20,7,3
 Vermilion,2020-12-24,age,20-29,9,2
 Vermilion,2020-12-24,age,30-39,8,1
@@ -98702,6 +100593,26 @@ Vermilion,2020-11-02,race,Left Blank,197,5936
 Vermilion,2020-11-02,race,NH/PI*,0,27
 Vermilion,2020-11-02,race,Other,68,1249
 Vermilion,2020-11-02,race,White,1349,26921
+Wabash,2020-12-25,age,<20,7,3
+Wabash,2020-12-25,age,20-29,2,2
+Wabash,2020-12-25,age,30-39,3,7
+Wabash,2020-12-25,age,40-49,5,8
+Wabash,2020-12-25,age,50-59,4,9
+Wabash,2020-12-25,age,60-69,6,6
+Wabash,2020-12-25,age,70-79,8,5
+Wabash,2020-12-25,age,80+,9,4
+Wabash,2020-12-25,age,Unknown,1,1
+Wabash,2020-12-25,gender,Female,569,5454
+Wabash,2020-12-25,gender,Male,396,2568
+Wabash,2020-12-25,gender,Unknown/Left Blank,17,221
+Wabash,2020-12-25,race,AI/AN**,0,0
+Wabash,2020-12-25,race,Asian,0,0
+Wabash,2020-12-25,race,Black,7,9
+Wabash,2020-12-25,race,Hispanic,15,7
+Wabash,2020-12-25,race,Left Blank,182,4248
+Wabash,2020-12-25,race,NH/PI*,0,0
+Wabash,2020-12-25,race,Other,0,8
+Wabash,2020-12-25,race,White,767,3964
 Wabash,2020-12-24,age,<20,7,3
 Wabash,2020-12-24,age,20-29,2,2
 Wabash,2020-12-24,age,30-39,3,7
@@ -99718,6 +101629,25 @@ Wabash,2020-11-02,race,Left Blank,73,1965
 Wabash,2020-11-02,race,NH/PI*,0,0
 Wabash,2020-11-02,race,Other,0,0
 Wabash,2020-11-02,race,White,169,1201
+Warren,2020-12-25,age,<20,2,1
+Warren,2020-12-25,age,20-29,4,6
+Warren,2020-12-25,age,30-39,6,5
+Warren,2020-12-25,age,40-49,7,4
+Warren,2020-12-25,age,50-59,5,3
+Warren,2020-12-25,age,60-69,3,2
+Warren,2020-12-25,age,70-79,1,8
+Warren,2020-12-25,age,80+,8,7
+Warren,2020-12-25,gender,Female,747,5464
+Warren,2020-12-25,gender,Male,644,4164
+Warren,2020-12-25,gender,Unknown/Left Blank,56,873
+Warren,2020-12-25,race,AI/AN**,0,0
+Warren,2020-12-25,race,Asian,19,24
+Warren,2020-12-25,race,Black,20,119
+Warren,2020-12-25,race,Hispanic,120,314
+Warren,2020-12-25,race,Left Blank,499,5101
+Warren,2020-12-25,race,NH/PI*,0,0
+Warren,2020-12-25,race,Other,13,153
+Warren,2020-12-25,race,White,772,4782
 Warren,2020-12-24,age,<20,2,1
 Warren,2020-12-24,age,20-29,4,6
 Warren,2020-12-24,age,30-39,6,5
@@ -100725,6 +102655,26 @@ Warren,2020-11-02,race,Left Blank,129,3038
 Warren,2020-11-02,race,NH/PI*,0,0
 Warren,2020-11-02,race,Other,6,116
 Warren,2020-11-02,race,White,339,2695
+Washington,2020-12-25,age,<20,3,5
+Washington,2020-12-25,age,20-29,4,3
+Washington,2020-12-25,age,30-39,6,7
+Washington,2020-12-25,age,40-49,5,2
+Washington,2020-12-25,age,50-59,8,4
+Washington,2020-12-25,age,60-69,7,6
+Washington,2020-12-25,age,70-79,9,9
+Washington,2020-12-25,age,80+,2,8
+Washington,2020-12-25,age,Unknown,1,1
+Washington,2020-12-25,gender,Female,626,4721
+Washington,2020-12-25,gender,Male,504,2983
+Washington,2020-12-25,gender,Unknown/Left Blank,10,167
+Washington,2020-12-25,race,AI/AN**,0,0
+Washington,2020-12-25,race,Asian,0,18
+Washington,2020-12-25,race,Black,0,45
+Washington,2020-12-25,race,Hispanic,11,61
+Washington,2020-12-25,race,Left Blank,367,2409
+Washington,2020-12-25,race,NH/PI*,0,0
+Washington,2020-12-25,race,Other,12,168
+Washington,2020-12-25,race,White,746,5162
 Washington,2020-12-24,age,<20,3,5
 Washington,2020-12-24,age,20-29,4,3
 Washington,2020-12-24,age,30-39,5,7
@@ -101785,6 +103735,25 @@ Washington,2020-11-02,race,Left Blank,90,1255
 Washington,2020-11-02,race,NH/PI*,0,0
 Washington,2020-11-02,race,Other,0,127
 Washington,2020-11-02,race,White,254,2959
+Wayne,2020-12-25,age,<20,8,5
+Wayne,2020-12-25,age,20-29,5,7
+Wayne,2020-12-25,age,30-39,4,6
+Wayne,2020-12-25,age,40-49,3,2
+Wayne,2020-12-25,age,50-59,6,3
+Wayne,2020-12-25,age,60-69,7,1
+Wayne,2020-12-25,age,70-79,2,8
+Wayne,2020-12-25,age,80+,9,9
+Wayne,2020-12-25,age,Unknown,1,4
+Wayne,2020-12-25,gender,Female,673,6469
+Wayne,2020-12-25,gender,Male,596,3347
+Wayne,2020-12-25,gender,Unknown/Left Blank,19,334
+Wayne,2020-12-25,race,Asian,0,0
+Wayne,2020-12-25,race,Black,0,14
+Wayne,2020-12-25,race,Hispanic,15,107
+Wayne,2020-12-25,race,Left Blank,160,2506
+Wayne,2020-12-25,race,NH/PI*,0,0
+Wayne,2020-12-25,race,Other,0,62
+Wayne,2020-12-25,race,White,1110,7458
 Wayne,2020-12-24,age,<20,8,4
 Wayne,2020-12-24,age,20-29,5,7
 Wayne,2020-12-24,age,30-39,4,6
@@ -102792,6 +104761,25 @@ Wayne,2020-11-02,race,Left Blank,59,1025
 Wayne,2020-11-02,race,NH/PI*,0,0
 Wayne,2020-11-02,race,Other,0,43
 Wayne,2020-11-02,race,White,471,4791
+White,2020-12-25,age,<20,5,2
+White,2020-12-25,age,20-29,6,7
+White,2020-12-25,age,30-39,4,6
+White,2020-12-25,age,40-49,5,5
+White,2020-12-25,age,50-59,7,3
+White,2020-12-25,age,60-69,8,4
+White,2020-12-25,age,70-79,2,1
+White,2020-12-25,age,80+,3,8
+White,2020-12-25,age,Unknown,1,9
+White,2020-12-25,gender,Female,561,10550
+White,2020-12-25,gender,Male,389,3344
+White,2020-12-25,gender,Unknown/Left Blank,125,617
+White,2020-12-25,race,Asian,0,17
+White,2020-12-25,race,Black,0,10
+White,2020-12-25,race,Hispanic,0,16
+White,2020-12-25,race,Left Blank,401,10108
+White,2020-12-25,race,NH/PI*,0,0
+White,2020-12-25,race,Other,6,48
+White,2020-12-25,race,White,662,4310
 White,2020-12-24,age,<20,5,2
 White,2020-12-24,age,20-29,6,7
 White,2020-12-24,age,30-39,3,6
@@ -103799,6 +105787,26 @@ White,2020-11-02,race,Left Blank,74,5514
 White,2020-11-02,race,NH/PI*,0,0
 White,2020-11-02,race,Other,0,29
 White,2020-11-02,race,White,220,2301
+Whiteside,2020-12-25,age,<20,5,7
+Whiteside,2020-12-25,age,20-29,7,9
+Whiteside,2020-12-25,age,30-39,8,8
+Whiteside,2020-12-25,age,40-49,6,5
+Whiteside,2020-12-25,age,50-59,9,6
+Whiteside,2020-12-25,age,60-69,4,4
+Whiteside,2020-12-25,age,70-79,2,2
+Whiteside,2020-12-25,age,80+,3,3
+Whiteside,2020-12-25,age,Unknown,1,1
+Whiteside,2020-12-25,gender,Female,2534,24097
+Whiteside,2020-12-25,gender,Male,2042,14413
+Whiteside,2020-12-25,gender,Unknown/Left Blank,102,1727
+Whiteside,2020-12-25,race,AI/AN**,0,10
+Whiteside,2020-12-25,race,Asian,10,62
+Whiteside,2020-12-25,race,Black,113,1324
+Whiteside,2020-12-25,race,Hispanic,252,1234
+Whiteside,2020-12-25,race,Left Blank,1167,19447
+Whiteside,2020-12-25,race,NH/PI*,0,7
+Whiteside,2020-12-25,race,Other,235,1154
+Whiteside,2020-12-25,race,White,2894,16999
 Whiteside,2020-12-24,age,<20,5,7
 Whiteside,2020-12-24,age,20-29,7,9
 Whiteside,2020-12-24,age,30-39,8,8
@@ -104859,6 +106867,26 @@ Whiteside,2020-11-02,race,Left Blank,507,12513
 Whiteside,2020-11-02,race,NH/PI*,0,0
 Whiteside,2020-11-02,race,Other,61,492
 Whiteside,2020-11-02,race,White,1076,8347
+Will,2020-12-25,age,<20,5,4
+Will,2020-12-25,age,20-29,9,8
+Will,2020-12-25,age,30-39,6,6
+Will,2020-12-25,age,40-49,8,7
+Will,2020-12-25,age,50-59,7,9
+Will,2020-12-25,age,60-69,3,5
+Will,2020-12-25,age,70-79,2,2
+Will,2020-12-25,age,80+,1,1
+Will,2020-12-25,age,Unknown,4,3
+Will,2020-12-25,gender,Female,25946,281639
+Will,2020-12-25,gender,Male,24135,209794
+Will,2020-12-25,gender,Unknown/Left Blank,447,8107
+Will,2020-12-25,race,AI/AN**,189,904
+Will,2020-12-25,race,Asian,924,10989
+Will,2020-12-25,race,Black,3908,38495
+Will,2020-12-25,race,Hispanic,7468,33006
+Will,2020-12-25,race,Left Blank,19779,238393
+Will,2020-12-25,race,NH/PI*,39,342
+Will,2020-12-25,race,Other,1803,18806
+Will,2020-12-25,race,White,16414,158605
 Will,2020-12-24,age,<20,5,4
 Will,2020-12-24,age,20-29,9,8
 Will,2020-12-24,age,30-39,6,6
@@ -105919,6 +107947,26 @@ Will,2020-11-02,race,Left Blank,7494,141277
 Will,2020-11-02,race,NH/PI*,20,199
 Will,2020-11-02,race,Other,721,11045
 Will,2020-11-02,race,White,6371,95764
+Williamson,2020-12-25,age,<20,6,4
+Williamson,2020-12-25,age,20-29,8,6
+Williamson,2020-12-25,age,30-39,9,9
+Williamson,2020-12-25,age,40-49,7,7
+Williamson,2020-12-25,age,50-59,5,8
+Williamson,2020-12-25,age,60-69,4,5
+Williamson,2020-12-25,age,70-79,3,3
+Williamson,2020-12-25,age,80+,2,2
+Williamson,2020-12-25,age,Unknown,1,1
+Williamson,2020-12-25,gender,Female,2519,32170
+Williamson,2020-12-25,gender,Male,2137,22155
+Williamson,2020-12-25,gender,Unknown/Left Blank,330,5359
+Williamson,2020-12-25,race,AI/AN**,0,18
+Williamson,2020-12-25,race,Asian,14,176
+Williamson,2020-12-25,race,Black,146,1661
+Williamson,2020-12-25,race,Hispanic,58,479
+Williamson,2020-12-25,race,Left Blank,994,22535
+Williamson,2020-12-25,race,NH/PI*,0,27
+Williamson,2020-12-25,race,Other,41,766
+Williamson,2020-12-25,race,White,3726,34022
 Williamson,2020-12-24,age,<20,6,4
 Williamson,2020-12-24,age,20-29,8,6
 Williamson,2020-12-24,age,30-39,9,9
@@ -106979,6 +109027,26 @@ Williamson,2020-11-02,race,Left Blank,487,12991
 Williamson,2020-11-02,race,NH/PI*,0,17
 Williamson,2020-11-02,race,Other,17,484
 Williamson,2020-11-02,race,White,1491,19036
+Winnebago,2020-12-25,age,<20,7,8
+Winnebago,2020-12-25,age,20-29,8,9
+Winnebago,2020-12-25,age,30-39,6,7
+Winnebago,2020-12-25,age,40-49,5,4
+Winnebago,2020-12-25,age,50-59,4,5
+Winnebago,2020-12-25,age,60-69,3,3
+Winnebago,2020-12-25,age,70-79,2,2
+Winnebago,2020-12-25,age,80+,9,1
+Winnebago,2020-12-25,age,Unknown,1,6
+Winnebago,2020-12-25,gender,Female,12473,138489
+Winnebago,2020-12-25,gender,Male,10735,93253
+Winnebago,2020-12-25,gender,Unknown/Left Blank,181,5378
+Winnebago,2020-12-25,race,AI/AN**,11,100
+Winnebago,2020-12-25,race,Asian,387,2445
+Winnebago,2020-12-25,race,Black,2211,17477
+Winnebago,2020-12-25,race,Hispanic,3905,16743
+Winnebago,2020-12-25,race,Left Blank,6640,106096
+Winnebago,2020-12-25,race,NH/PI*,8,72
+Winnebago,2020-12-25,race,Other,393,3915
+Winnebago,2020-12-25,race,White,9835,90272
 Winnebago,2020-12-24,age,<20,7,8
 Winnebago,2020-12-24,age,20-29,8,9
 Winnebago,2020-12-24,age,30-39,6,7
@@ -108039,6 +110107,26 @@ Winnebago,2020-11-02,race,Left Blank,1893,62142
 Winnebago,2020-11-02,race,NH/PI*,0,54
 Winnebago,2020-11-02,race,Other,209,2299
 Winnebago,2020-11-02,race,White,5420,57270
+Woodford,2020-12-25,age,<20,9,9
+Woodford,2020-12-25,age,20-29,7,5
+Woodford,2020-12-25,age,30-39,5,7
+Woodford,2020-12-25,age,40-49,6,4
+Woodford,2020-12-25,age,50-59,8,8
+Woodford,2020-12-25,age,60-69,4,3
+Woodford,2020-12-25,age,70-79,2,2
+Woodford,2020-12-25,age,80+,3,6
+Woodford,2020-12-25,age,Unknown,1,1
+Woodford,2020-12-25,gender,Female,1367,22892
+Woodford,2020-12-25,gender,Male,1211,13321
+Woodford,2020-12-25,gender,Unknown/Left Blank,63,1380
+Woodford,2020-12-25,race,AI/AN**,0,25
+Woodford,2020-12-25,race,Asian,0,93
+Woodford,2020-12-25,race,Black,0,188
+Woodford,2020-12-25,race,Hispanic,9,126
+Woodford,2020-12-25,race,Left Blank,1222,19396
+Woodford,2020-12-25,race,NH/PI*,0,0
+Woodford,2020-12-25,race,Other,46,767
+Woodford,2020-12-25,race,White,1349,16994
 Woodford,2020-12-24,age,<20,9,9
 Woodford,2020-12-24,age,20-29,7,6
 Woodford,2020-12-24,age,30-39,5,7
