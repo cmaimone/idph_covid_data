@@ -24,43 +24,20 @@ most_recent_download <- function(type) {  # type is historical or zips
   glue("backups/{t}_{d}.json", t=type, d=mostrecent[which.max(parse_datetime(mostrecent))])
 }
 
-# Historical County Data ----
 
-historical <- GET("http://www.dph.illinois.gov/sitefiles/COVIDHistoricalTestResults.json") 
 
-historical %>% 
-  content(as="text") %>%
-  write("backups/historical_holding.json")
+# Function to collect individual county demographics ----
 
-# if this is a new file, process...
-if (tools::md5sum(most_recent_download("historical")) != tools::md5sum("backups/historical_holding.json")) {
-  filedate <- make_date(historical %>% content() %>% extract2(1))
-  file.rename("backups/historical_holding.json", glue("backups/historical_{d1}.json", d1=now()))
+county_collect <- function(county_names=NULL, collectdate=today()) {
 
-  county_hist <- historical %>% 
-    content() %>% 
-    extract2("historical_county") %>% 
-    extract2(1) 
-  
-  result <- do.call(rbind.data.frame, county_hist[[1]]$values)
-  result$date <- county_hist[[1]]$testDate
-  for (d in 2:length(county_hist)) {
-    df <- do.call(what=rbind.data.frame, county_hist[[d]]$values)
-    df$date <- county_hist[[d]]$testDate
-    result <- bind_rows(result, df)
-  }
-  
-  result %>%
-    select(-negative, -lat, -lon) %>%
-    write_csv("current_data/county.csv")
-  
-  county_names <- unique(result$County)
-  
-  # County Demographics ----
-  # assume these change when main file changes
   # will overwrite daily file if there already is one
   county_demo <- read_csv("current_data/county_demo.csv",
                           col_types = "cDccii")
+  
+  if(is.null(county_names)) {
+    county_names <-  unique(county_demo$county)
+  }
+  
   for (cn in county_names) {
     print(cn)
     resp <- GET(glue("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyDemographics?countyName={n}", 
@@ -107,8 +84,47 @@ if (tools::md5sum(most_recent_download("historical")) != tools::md5sum("backups/
     summarize(cases=max(cases),
               tested=max(tested)) %>%
     arrange(county, desc(date)) %>% 
-    write_csv("current_data/county_demo.csv")
+    write_csv("current_data/county_demo.csv")  
   
+  # condense backup files (keep individual files locally, push zip to git)
+  zip(glue("backups/county_demo/{d1}.zip", d1=collectdate), 
+      list.files("backups/county_demo", pattern=as.character(collectdate), full.names=TRUE))
+}
+
+# Historical County Data ----
+
+historical <- GET("http://www.dph.illinois.gov/sitefiles/COVIDHistoricalTestResults.json") 
+
+historical %>% 
+  content(as="text") %>%
+  write("backups/historical_holding.json")
+
+# if this is a new file, process...
+if (tools::md5sum(most_recent_download("historical")) != tools::md5sum("backups/historical_holding.json")) {
+  filedate <- make_date(historical %>% content() %>% extract2(1))
+  file.rename("backups/historical_holding.json", glue("backups/historical_{d1}.json", d1=now()))
+  
+  county_hist <- historical %>% 
+    content() %>% 
+    extract2("historical_county") %>% 
+    extract2(1)
+  
+  result <- do.call(rbind.data.frame, county_hist[[1]]$values)
+  result$date <- county_hist[[1]]$testDate
+  for (d in 2:length(county_hist)) {
+    df <- do.call(what=rbind.data.frame, county_hist[[d]]$values)
+    df$date <- county_hist[[d]]$testDate
+    result <- bind_rows(result, df)
+  }
+  
+  result %>%
+    select(-negative, -lat, -lon) %>%
+    write_csv("current_data/county.csv")
+  
+  county_names <- unique(result$County)
+  
+  ## individual demographic files for each county
+  county_collect(county_names)
   
   # State Level Demographics ----
   state_demo <- historical %>% 
@@ -152,9 +168,6 @@ if (tools::md5sum(most_recent_download("historical")) != tools::md5sum("backups/
     write_csv("current_data/state_demo.csv")
   
   
-  # condense backup files (keep individual files locally, push zip to git)
-  zip(glue("backups/county_demo/{d1}.zip", d1=filedate), 
-      list.files("backups/county_demo", pattern=as.character(filedate), full.names=TRUE))
 } # end of processing new historical file
 
 
