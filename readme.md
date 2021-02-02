@@ -68,6 +68,7 @@ The IDPH does NOT report historical time series for the following files.  The da
 
 ### Data Notes
 
+* 2021/02/02: The historical data file hasn't been updated by IDPH since 1/29, which means several of the data files haven't been updated.  All of the updated data that is available is being collected.
 * 2020/12/5: missing December 3-4 from the zip_demo.zip file
 * 2020/12/2: switched files out of lfs and zipped zip_demo file
 * 2020/11/24: county demographics files changed format for age data -- extra race and deaths items included for age groups, but without data in them; this necessitated a change in the script; monitoring for future changes
