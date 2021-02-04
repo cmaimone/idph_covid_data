@@ -91,7 +91,7 @@ county_collect <- function(county_names=NULL, collectdate=today()) {
       list.files("backups/county_demo", pattern=as.character(collectdate), full.names=TRUE))
 }
 
-# Historical County Data ----
+# Main Data File ----
 
 mainfile <- GET("https://www.dph.illinois.gov/sitefiles/COVIDTestResults.json") 
 
