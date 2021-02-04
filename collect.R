@@ -93,41 +93,38 @@ county_collect <- function(county_names=NULL, collectdate=today()) {
 
 # Historical County Data ----
 
-historical <- GET("http://www.dph.illinois.gov/sitefiles/COVIDHistoricalTestResults.json") 
+mainfile <- GET("https://www.dph.illinois.gov/sitefiles/COVIDTestResults.json") 
 
-historical %>% 
+mainfile %>% 
   content(as="text") %>%
-  write("backups/historical_holding.json")
+  write("backups/main.json")
 
 # if this is a new file, process...
-if (tools::md5sum(most_recent_download("historical")) != tools::md5sum("backups/historical_holding.json")) {
-  filedate <- make_date(historical %>% content() %>% extract2(1))
-  file.rename("backups/historical_holding.json", glue("backups/historical_{d1}.json", d1=now()))
+if (tools::md5sum(most_recent_download("main")) != tools::md5sum("backups/main.json")) {
+  filedate <- make_date(mainfile %>% content() %>% extract2(1))
+  file.rename("backups/main.json", glue("backups/main_{d1}.json", d1=now()))
   
-  county_hist <- historical %>% 
+  county_hist <- mainfile %>% 
     content() %>% 
-    extract2("historical_county") %>% 
+    extract2("characteristics_by_county") %>% 
     extract2(1)
   
-  result <- do.call(rbind.data.frame, county_hist[[1]]$values)
-  result$date <- county_hist[[1]]$testDate
-  for (d in 2:length(county_hist)) {
-    df <- do.call(what=rbind.data.frame, county_hist[[d]]$values)
-    df$date <- county_hist[[d]]$testDate
-    result <- bind_rows(result, df)
-  }
-  
+  result <- do.call(rbind.data.frame, county_hist)
+  result$date <- filedate
   result %>%
-    select(-negative, -lat, -lon) %>%
+    select(-lat, -lon) %>%
+    bind_rows(read_csv("current_data/county.csv")) %>%
+    group_by(County, date) %>%
+    mutate(across(c(confirmed_cases, total_tested, probable_deaths, deaths), max)) %>%
+    ungroup() %>%
+    arrange(desc(date), County) %>%
     write_csv("current_data/county.csv")
   
-  county_names <- unique(result$County)
-  
   ## individual demographic files for each county
-  county_collect(county_names)
+  county_collect()
   
   # State Level Demographics ----
-  state_demo <- historical %>% 
+  state_demo <- mainfile %>% 
     content() %>% 
     extract2(4) 
   
@@ -173,29 +170,31 @@ if (tools::md5sum(most_recent_download("historical")) != tools::md5sum("backups/
 
 # County Historical  Youth ----
 
-print(">>Historical Youth")
+# this file hasn't been updated since December
 
-resp <- GET("http://www.dph.illinois.gov/sitefiles/COVIDCountyRiskMetrics.json")
-
-resp %>% 
-  content(as="text") %>%
-  write("backups/county_risk_holding.json")
-
-# if this is a new file, process...
-if (tools::md5sum(most_recent_download("county_risk")) != tools::md5sum("backups/county_risk_holding.json")) {
-  
-  file.rename("backups/county_risk_holding.json", glue("backups/county_risk_{d1}.json", d1=now()))
-  
-  x <- resp %>% 
-    content() 
-  
-  do.call(rbind.data.frame, x[["historical_demographics"]]) %>%
-    select(date=reported_date, County, youthCaseCount, youthCaseTested) %>%
-    mutate(date = date(date)) %>%
-    arrange(desc(date), County) %>%
-    write_csv("current_data/county_youth_historical.csv")
-  
-} # symptoms
+# print(">>Historical Youth")
+# 
+# resp <- GET("http://www.dph.illinois.gov/sitefiles/COVIDCountyRiskMetrics.json")
+# 
+# resp %>% 
+#   content(as="text") %>%
+#   write("backups/county_risk_holding.json")
+# 
+# # if this is a new file, process...
+# if (tools::md5sum(most_recent_download("county_risk")) != tools::md5sum("backups/county_risk_holding.json")) {
+#   
+#   file.rename("backups/county_risk_holding.json", glue("backups/county_risk_{d1}.json", d1=now()))
+#   
+#   x <- resp %>% 
+#     content() 
+#   
+#   do.call(rbind.data.frame, x[["historical_demographics"]]) %>%
+#     select(date=reported_date, County, youthCaseCount, youthCaseTested) %>%
+#     mutate(date = date(date)) %>%
+#     arrange(desc(date), County) %>%
+#     write_csv("current_data/county_youth_historical.csv")
+#   
+# } 
 
 
 
@@ -289,6 +288,7 @@ if (tools::md5sum(most_recent_download("zips")) != tools::md5sum("backups/zips_h
 
 # Race and Ethnicity ----
 print(">>Race and Eth")
+# Last updated end of 2020 - give it a few more days to see if it is updated for January
 
 resp <- GET("http://www.dph.illinois.gov/sitefiles/COVIDRaceEthnicity.json")
 
@@ -372,6 +372,8 @@ if (tools::md5sum(most_recent_download("hospitalization")) != tools::md5sum("bac
 
 # Symptom Tracker ----
 print(">>Symptoms")
+
+# not updated recently -- check again in a few days
 
 resp <- GET("http://dph.illinois.gov/sitefiles/COVIDSyndromic.json")
 
