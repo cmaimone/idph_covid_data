@@ -69,6 +69,7 @@ The IDPH does NOT report historical time series for the following files.  The da
 
 ### Data Notes
 
+* 2021/03/24: County data is missing for this date.  Reason is unknown, but it was not captured between file updates.
 * 2021/02/04: Primary collection feed switched to https://www.dph.illinois.gov/sitefiles/COVIDTestResults.json, which no longer includes historical data for counties, but does for state level data
 * 2021/02/02: The historical data file hasn't been updated by IDPH since 1/29, which means several of the data files haven't been updated.  All of the updated data that is available is being collected.
 * 2020/12/5: missing December 3-4 from the zip_demo.zip file
