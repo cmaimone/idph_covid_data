@@ -1,5 +1,9 @@
 # IDPH COVID-19 Statistics
 
+## 2021-05-03 Change
+
+`current_data/zip_demo_part1.zip` has data through April 30, 2021.  `current_data/zip_demo.zip` has data from 2021-05-01 onward.  
+
 ## Data
 
 Data displayed on the [IDPH website](http://www.dph.illinois.gov/covid19/covid19-statistics) is collected and aggregated here.  Data since 2020-11-02 is collected from underlying JSON files and includes demographic data.  Older data was collected by scraping the displayed website using [this code](https://github.com/FarhadGSRX/IL-Covid-Data-Repeater/).
@@ -16,7 +20,7 @@ No Demographics:
 
 Demographics:
 * [County Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/county_demo.csv?raw=true)
-* [Zip Code Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/zip_demo.zip?raw=true) - note: compressed file
+* [Zip Code Data](https://github.com/cmaimone/idph_covid_data/blob/master/current_data/zip_demo.zip?raw=true) - note: compressed file, split into two parts
   * Missing 12/3/20 and 12/4/20
 * State Level Data: "Illinois" is an entry in the county data file.
 
@@ -30,7 +34,7 @@ COVID Data Availability:
   * For entire state, by age and race (intersecting, by age groups), tests, cases, and deaths, daily, back to 11/1/20: [`current_data/state_demo.csv`](current_data/state_demo.csv) - NAs indicate totals for the demographic grouping; missing 1/30/21-2/2/21
 * By Zip Code
   * Cumulative cases and tests (not deaths) by date daily back to 3/17/20: [`current_data/zip.csv`](current_data/zip.csv)
-  * Age (groups), race, and gender demographics (all separately, not intersecting) - cumulative tests and cases (not deaths) - by date daily back to 4/18/20: [`current_data/zip_demo.zip`](current_data/zip_demo.zip) **NOTE**: compressed file
+  * Age (groups), race, and gender demographics (all separately, not intersecting) - cumulative tests and cases (not deaths) - by date daily back to 4/18/20: [`current_data/zip_demo.zip`](current_data/zip_demo.zip) **NOTE**: compressed file - split into two parts
 * Hospitalization Data
   * State statistics, back to 11/2/2020 - [`current_data/hospitalization_state.csv`](current_data/hospitalization_state.csv)
   * Regional statistics, back to 11/2/2020 - [`current_data/hospitalization_regional.csv`](current_data/hospitalization_regional.csv)

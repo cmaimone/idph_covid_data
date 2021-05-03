@@ -208,6 +208,8 @@ zips %>%
   content(as="text") %>%
   write("backups/zips_holding.json")
 
+zipcodelist <- read_lines("current_data/zipcodes.txt")
+
 if (tools::md5sum(most_recent_download("zips")) != tools::md5sum("backups/zips_holding.json")) {
   file.rename("backups/zips_holding.json", glue("backups/zips_{d1}.json", d1=now()))
     
@@ -233,7 +235,7 @@ if (tools::md5sum(most_recent_download("zips")) != tools::md5sum("backups/zips_h
   zip_demo <- read_csv("current_data/zip_demo.zip",
                        col_types="cDccii") 
   
-  for (zipcode in unique(zip_demo$zip)) {
+  for (zipcode in zipcodelist) {
     print(zipcode)
     resp <- GET(glue("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetZipDemographics?zipCode={z}", z=zipcode))
     
